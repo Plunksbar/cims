@@ -222,7 +222,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "altair", specifier = ">=6.0.0" },
+    { name = "altair", specifier = ">=4.0.0" },
     { name = "bs4", specifier = ">=0.0.2" },
     { name = "folium", specifier = ">=0.20.0" },
     { name = "ipykernel", specifier = ">=7.2.0" },
