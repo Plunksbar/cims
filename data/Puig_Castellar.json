@@ -1,0 +1,30 @@
+{
+    "assencions": "1288",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/puig-castellar/",
+    "comarca": "Barcelonès, Vallès Occidental",
+    "altitud": 303,
+    "latitud": 41.4703022946,
+    "longitud": 2.2065864631,
+    "utm_31t_x": "433749",
+    "utm_31t_y": "4591271",
+    "essencial": true,
+    "nom": "Puig Castellar",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 802.3,
+                    "summary": "",
+                    "duration": 777.7,
+                    "distance": 7864.6
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWCEEI_AuAs@cACESYQWe@s@q@cAe@o@EGOUU[_@k@{A{BCCKOKOW]_@i@yAyBCGU[S[{@oAk@y@Y_@QWOUYa@i@y@e@q@EGAEMQSYCCEE?ASYKOCEkAeBYc@EIQWMOCEQWEEi@w@eA{ACEQWOUiA_BOSQYUYKOW]q@eAIKEGKOEIEEIQKOUa@GIIMCCUYSYiAqA[c@OQAA??CCEGECk@k@gA_A}@q@]WSOECQOWQoBuAIEGEKGGGCAEGQ[KSKYEWG]E[COCOEMCIKSIKEGMMQKSGK?QCO@GBa@HSPSVg@|@Yr@[v@OVi@j@}A`AMZwA~@]Rk@^cB~@QJwBhA}Ar@u@\\}An@oAd@oA`@eBd@uSlDw@Lw@PgBb@u@TmA`@kAb@A?a@NgAf@y@^k@Za@ReAn@}@l@UNw@h@o@f@a@^mAdAYVs@l@c@^oBdBYVoAhAm@h@KHa@\\_Az@GDe@`@yB~BuBnCS\\QVMVWh@MXY^Wh@MTU`@g@jAm@bBITMPEFGFGFIDIFIBG@I@I?G?IAI?MCICKCKEKGKGQO[W[SqB_C[_@g@o@{@gAi@oA_@k@[k@k@eAUc@e@cASc@q@iB_DwGOWOWKQIQoCuEIMKOU]_DoESYoBkCMOU]C@Q@MHQHUJYNEBEBUPEFORELEB}E`CIFKSs@wAGKIFa@ZuAlAMJIDG@e@BoALM@MAGAICe@a@WUOKIIKIYQAAICOI]K[Eg@IKAo@Q]K[A[BQA]Ec@CW@I?m@FQBQBSBsAPYD]DKB_@NSJa@N_@RCHCF@L@FFHIV}@~AmA~B",
+            "weight": 802.3,
+            "duration": 777.7,
+            "distance": 7864.6
+        }
+    ]
+}

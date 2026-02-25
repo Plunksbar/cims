@@ -1,0 +1,30 @@
+{
+    "assencions": "955",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/puiggracios/",
+    "comarca": "Vallès Oriental",
+    "altitud": 808,
+    "latitud": 41.7026698984,
+    "longitud": 2.24118699931,
+    "utm_31t_x": "436865",
+    "utm_31t_y": "4617043",
+    "essencial": false,
+    "nom": "Puiggraciós",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 2675.9,
+                    "summary": "",
+                    "duration": 2591.7,
+                    "distance": 36595.2
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVw@@c@@Y?I?I?mA?s@?gA?cA?]?UAK?G?e@@E?e@AI?y@@y@De@Bg@FWD_AR]HMBg@Lg@PwAn@a@\\wCfB_B~@eBbAm@\\_B~@OHSJEBEB[TQHIFoBjAeC|AEBEDYTSNCBC@CBUJQJSFODGBQBSBY@]@[?k@G]Ga@MIAg@K_@ImBc@y@SYIuA]i@MCAICYGEAiEeA{EgA]IKEIAeCk@qCo@sA]mAYcDw@o@MqCm@wBe@{@QmAW{@Qq@OGCe@IYEYGi@KuA[kAYUGWEw@SeASkBc@eGwAeCi@{@S{@SuA]e@Kk@Mw@SE?{@UUGKCk@Ma@I??YG]A{@EaBGyGQuAAyB@E?]@eADiAHaAHk@Fm@JWDg@Jg@Hu@X_@J]Ns@^a@TQLe@`@SRWX[\\]b@_@h@]h@]j@_@n@e@|@y@zAgArBaA`Bs@nA]j@]j@]h@_@h@_@f@MHKNGHy@`Am@l@C@UTWVSNc@h@aAv@gAv@a@Vk@ZcBdAi@Zc@V]Va@Xa@\\gAdA}@`Aq@j@s@v@c@b@k@f@[X[T[T[R_@PGBUL]L{@Zm@Nk@Jm@Hq@Fq@By@As@Eq@IiAQu@Ui@Sg@Sc@WcAm@}@q@_A{@}@}@cBiBoE{EoAqA}@}@cB}AsAkAmB{A}@o@}@m@sAy@EEsAq@wAo@sAe@cAY{@SsAUiAOiAKeAGcAAy@Au@B}ADuAJuDX}BRy@FmAJ}AHmABM@oA?cAAo@Co@Ga@Ca@Ey@Qw@Q}@Yu@Ys@_@{@i@u@k@{@y@s@y@q@_Ag@{@c@y@_@s@c@cAs@uAYk@Yg@g@y@i@u@c@g@c@c@e@a@e@a@}@k@o@[e@ScA_@gAY{AWwASwAQ_C]iBYMCy@Qw@SyA_@wAg@cBs@gAg@cAi@GEcBiAaBkAiA}@sB}Au@q@iCgCqFeG}HsJsA_BaEcF_DyDcGyGkBoBgDyCmAgAyBcB{BcBkBqAkEuCeHmE_IsEqAw@sDuBuIaFaDkBkCyAcDkBgGoD_CwAmCaBo@_@kCcBoAw@mAy@cBiAmBqAqA{@mA{@oA}@oA}@oA_AgBsAgBsAmA_As@k@iByAgByAw@o@oIkH_Ay@wDcDsFoFoFyEoA{@yAcA{A{@gE{BkAq@oGiDaCaByAsAsAsAqCqDyBuDqDsHgB{CiBmCc@g@kBuBoBaBq@g@gBgAqAi@}@]{@[{Bo@}Bi@s@[GC{A]cBg@iBm@s@Wi@Us@c@q@_@c@]i@k@g@m@We@Uc@Uk@Qi@Qk@Os@Kq@Oo@Om@O_@O[Y_@[[]U_@Qi@Ss@Kq@Kq@Ao@@wCFgBLiAHiAPaALaAPcCh@kAXYHiA^{@\\}@^yB`AaDrAsBv@a@Hc@D[@[?SCUC]I_@OWMe@[QOq@i@oCqCmEyEaLyL{@y@{GkH{A_BaHkHgAgAGG{CeD_CeC_A}@mA{@aLeGuMcH{EkCq@]MImFgDgU}NsDeCkJsG}@m@_CaBeBoAeDyBgBgAw@WcBm@qJwCiA][KcA]c@SoAw@gBmA{@o@eDuBSK_@Ow@Qy@McAAiAHeAXg@Pa@VsAfAqErD{@l@}@`@k@Ni@HeAHwA@qHDkCAkBGuB_@sBm@aGwB_Bk@}Ak@sAo@a@WaAw@}@eAiCwDqB{C}@eAy@y@sAq@i@Mm@K}BIWAaO\\cCF}GLwCAmC[gCo@{Bo@mEkAu@Mk@KaBS{CUsCPaBRo@LqDt@e@PsATkAJu@Bs@?uLC_GAmBAkLEmHCkJE{@AI?kDAu@AeC?_DAK?yCAc@?oHEwFAsMGwNEmB?oAAe@?kWEoCDqCCqICS?{FAiB?oAA{DMQAOCOEOGIEIGIEKIc@_@]WIEIE_@CC?QAS@MBQFIBKFYVIJIJMTGR[t@MXQZ[^UNYL_@J[?o@G[KGCCCACCEAIAGCMEKIGGEI?I@E@EDG@E@G@I?y@GG?Q?WD[F_AVsBn@qCjAcCz@KB{@ZAGEECAEAE@EBCDAF?FQNq@Ri@NSJKFo@f@i@j@wBxBKJ]Xa@h@aA`DGNKTIRKJKJuA~@o@`@KHQN[NIBGHMH{@j@QJk@\\c@X[PGF[PC@w@d@s@b@GDcAn@IFGDKF{@l@A?]R_@Xo@p@UVEDCBGFO@MACAKGOAO@GHEJKNUX[HYDWACAy@QqAPc@ZC@a@EWAe@EWDSNYd@e@f@]VKJ[DeA?aACUHSJYNQ^KVOPYLgAj@u@Vi@NgAb@iAV{@NYLKHw@t@e@^GBAECCCAC@CQAaAK{@Mm@Mc@sAcCYWSCSDS^aAhCQ\\WNc@P]LUXEDe@r@kA|CkAdAkAx@sAfA_Ax@oA`Ak@t@s@nASZYjAI\\Qh@U\\y@b@yDvAa@N_AVcBXcANuARaAPEIEEEAG?GBEFCFAH@HaBbAgDrBoCdBe@XeDpAq@Xk@LiAR{@PwA`@sA\\_Cl@mCp@uA\\}Bj@w@Po@NM^t@`CvAtCp@lCDt@Sp@]^]Lk@@}@Q_Ao@sAKuAEkBj@SAC^Vl@FT?VC^?V@TJb@Pj@Lb@JXJVJNLJJJDL@NoA~@S@QEKE_@OQQWe@KU",
+            "weight": 2675.9,
+            "duration": 2591.7,
+            "distance": 36595.2
+        }
+    ]
+}

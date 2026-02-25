@@ -1,0 +1,30 @@
+{
+    "assencions": "1000",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-donofre-arnau/",
+    "comarca": "Maresme",
+    "altitud": 131,
+    "latitud": 41.5545820258,
+    "longitud": 2.46903089064,
+    "utm_31t_x": "455721",
+    "utm_31t_y": "4600460",
+    "essencial": false,
+    "nom": "Turó d’Onofre Arnau",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 1784.4,
+                    "summary": "",
+                    "duration": 1697.3,
+                    "distance": 32708.7
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBKc@W_BMgAe@yEMuAQeAO}@Mi@]oAe@sA_@{@k@eAm@}@g@m@g@g@aA{@u@m@_GoD}@i@WSwAmAk@m@m@o@gFuGg@e@sCmCsCcBgB_AaHwE}@s@_A{@cBeB_AiAqAkBsAyBiB{DgCyGGOs@mBiAyCm@{Am@oAu@_BoBeDuBwCkBmB_Ay@}@u@cCaBsAy@wGmDgGuD{CgCeAoAaAuAMOk@aA_@u@Sa@c@_A[w@Ww@WaAa@eBcAmGOmBGwAEwBAcA@wAD{AFkAH_AN}A\\}Bp@aDlBwHrBiIrA}Gd@wC^wCTcCLoBJuBDuBCkEQaEm@eFw@oDgAmDy@yBm@mAeCwDuDcEcByBcAyAy@wA{@mBk@}Ak@eBa@}Ac@sB[oBUaBSaCYaESmEGmECqQ?OCiDCqCIoCSkE[qDe@oDk@oCqB{Hy@mDo@_Ei@aEg@}CYsAYsAaAcDwAkDcBaDkBiCqBuB{BiBgGiDyEcCeCaBgBaBYWiCsDg@s@kB{DsA{DgA{C}@qCSm@y@uCm@gCs@}Co@oCiBoIi@iCy@cEwAgHwAgGq@gC}AyFcBuFiBiFaAcCeAmCsBmEeBmDaFqJ_FaK_CmFs@iBu@iBwFcQqCcKoBuIi@oCoAyG_B_K_@cCiAiIs@qFWgBkAaJ_@aCWsAi@kCcA}EkAgEyA_EqCyGeBkDqBqDU]aBcC{@qAoCiDaD{DsBgCsCuCaDaCgC{AgCeAaDoAoAo@}@g@MGgBuA_B}AmBuBqA}AkAkAaA_AgAw@kBeAqBw@uCo@mAKkA?qADmARsC`AeAl@_Ap@mDfDyAlA}A`A{CpAwA^qAPiANkAFiCC_AIeCa@q@Sc@OMEiAc@_CwAc@Uy@s@aByASSk@m@q@{@a@o@Wc@wAiCeAeC}AyDsBcGwAeFaBwGiAcGu@_Fe@qCcAmGQgAWwAW_Ba@qCUoAUqAs@iDm@cCs@iCy@cCq@kBmAaDo@{A_AwBs@cBc@gAUm@IW[eAYoAc@qBQ{@Ky@WyBIeAGcAGgBEkB?eA@UHgEH_CNqDHwE@mFG}FEqBAeAE_DIqECgAMgCMaCWaDo@uFa@mC_@sBa@sBiA}Ea@iBOq@]oBk@cDa@{Co@yDcAoFc@uBa@{BY_Bi@wCU_BWaC?w@E{@OcCG}AA}A?oA@mAFqADqA?]A]EYGWUg@cA}AISGUG_@?[@YBWJs@NWLWPQNO\\QTGRCNAd@?r@BfANfAZ`AX\\Jb@HTDf@DdA@z@Gb@I`@KZIXMVMVO^[TSRQFJFHDBDBHALALANAJAR@L@RFHBDH@D?D?HCDIJKHUHUDUFI@CDAF?J?\\LhBB\\DLBDDDBBD@B@B@?D?FCJAHAJAH@H?BDDBD@B`@ZDFJPJVBHBD@D?D?BADADCDABEBC?C?]g@CAA?C@IL",
+            "weight": 1784.4,
+            "duration": 1697.3,
+            "distance": 32708.7
+        }
+    ]
+}

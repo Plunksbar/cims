@@ -1,0 +1,30 @@
+{
+    "assencions": "1017",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/puig-dagulles/",
+    "comarca": "Alt Penedès, Baix Llobregat",
+    "altitud": 653,
+    "latitud": 41.4080777208,
+    "longitud": 1.88497858406,
+    "utm_31t_x": "406805",
+    "utm_31t_y": "4584659",
+    "essencial": false,
+    "nom": "Puig d’Agulles",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 4217.2,
+                    "summary": "",
+                    "duration": 4217.2,
+                    "distance": 38022.9
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@LRdCrDBDHLDFPVbAzA`@h@BD`@n@LPd@l@BBtBzCBDfA|ANTTZNTT\\BDv@fAt@fAX`@BB\\h@^h@f@t@PTBDFH?@FHFHHJPXBBBFFFDHNJPDHDJLHLDDJLDFhAbBBBZd@Zb@dA|AT\\Vb@DD\\h@DFRZpBpCDFZf@X`@PVl@~@j@z@DF\\f@DHV\\^h@bA|ABDV^FHZb@f@t@|@rADHZd@^f@xAvBFH^j@Zb@T\\^h@l@z@DF^j@RXJNbCnDDHLPFHV`@T\\HJVb@~@pADFNTDFHLp@~@HLt@fAHJZd@DDZh@p@|@x@lA^j@\\h@p@bAv@hABDTXFHDFPTBFb@l@z@pAJL\\h@b@n@r@dAf@r@HNFFZd@V^FHV^Zd@Xb@LPJL^l@`@h@p@bAj@x@HN^h@_@j@[`@o@`AW\\A@a@l@GHQXGH}@nAi@v@CDY`@CDa@j@u@dAk@z@GH[b@GJ]d@_@h@_@h@EFCBKNA@GJCDED??CDCD@LDP@HJl@TnAb@hC@HDZFV@NF\\TrA@HFb@@R@JFj@@FDj@B\\@TDTDJDHBHRh@DH?FdBpK@Hn@zDBJ@DHh@@HBP@D@JDTNz@@F@JJh@Fb@@D`AbG@HBH@HjAfH@JJh@Fd@@DDRVdB@D\\rB@HFb@Jj@?D|@nF@HJh@Hf@@H|@vFH`@Fb@F\\DV@JDTBHJr@BV@H@H?H?HAPKJKPGTCT@`@@HDNFNJJJJB@B@AX?R@TBN@BtAxIPfApAdITrA@FFb@BNF^h@vC?DN|@Lp@^|B?FBN@D@HBHBRjA~GBV|@tFFb@@Bv@rEBP@D@HHj@FZbAlGJj@`@dCTxAt@pEHh@@FBRC`@AP?J@L?B?D@HBV@HFVFRFLFJHJJHD\\dApGH^D\\jA|HHf@@D@H@F?H?H?HCJCPAPAd@?BD`@JTZVNFL@D@N@J?JATGJn@@HJh@D\\V|AF\\F^PfAF^Hf@BJbBhKHh@DTN~@BJHh@Hh@Hb@@HRhAnB~LXbBJn@BNPfADPF^Hd@D\\BNHd@FZFb@BLV|AF`@DVBH\\xBHb@d@tC@JBJHh@FZ@FJp@XdBDTBLRrAJn@BFD\\Br@Jl@@LZlBNfANj@Hh@PjA`@lC^|Bf@xCLv@|@jFlAzHj@tDRrANhBHtADjADhA@dBAbAC|AGpAIpAMpA[vDUlCQpBObBK`BGfAAvA?bA@bANbCHp@Fl@Jj@Hh@R~@Rv@Vx@Zz@Vj@Xl@dAdBnA~ANNxA|ArCpCxAjBb@n@x@hB^|@Pj@Nh@Rx@Pz@Jn@Hj@Hp@Fr@Fz@F~@Bx@PfER`FBh@FzAJzBNbDjAlYfArWJvBx@`RZxG\\tENzAPzAXjBXlB^hC\\rBV`Bb@nCLz@^~Bx@hFZxBThBNtAPxBFbAB\\Bz@Bn@@t@BdA@fA?jEI`FCbBKjFClBEnCE\\Ab@EhAAt@AvBA~@ErBM|HCr@Gn@Gn@Gf@Ib@I`@Up@Sh@MXe@r@W\\YXi@d@s@b@yAv@uA~@u@t@w@|@g@t@Yf@[h@k@hAa@v@Ul@Qn@a@jASv@Qv@AJI`@Gn@CVGl@GvAEfB?^CnDApACjFElEAf@Cb@IbAGd@I`@WfAQl@Sj@Wf@Wb@s@~@_@b@a@\\qAfAWRaC`B_Bz@{CtAe@Rw@Z_C~@_DtA{DfB{At@_@RuBhAe@TgE~BcB`Au@`@YLeGxC[LoB~@aAf@_I|Ci@RyAh@yAf@sDpAcDbAWH{Cx@eBf@_IlCwIlDaEbByDbByAr@qB`AoBbAmBdA_D`B}DjBsDbBkAh@iFvBoB|@gAf@SHwCnA}B~@mCfAyAp@yAr@{Ax@aAj@sA~@kAx@qBdAs@b@YPa@Te@TQHWH[H_@H[Ds@Hg@Fs@Le@Jc@N[LQJ[PYTORILKTGTI\\C^AX@VBZDVFRHTLXVd@b@r@Xj@R`@P\\Rd@L`@P`@Ld@X~@^rAhAzDvCfKLb@f@jBJh@HZF\\Jh@RxAZzC`@xDZrCL`AP~@Pr@Pl@Rl@Rj@`@x@f@x@x@dAz@|@d@^d@Zd@Tf@R\\N\\Jz@RbDn@lCh@p@Pn@Tn@XvAx@r@j@f@`@zB|BdAhAfAdAd@^f@\\b@Zb@Vr@Zr@Vr@Tr@PfFz@pB\\JDdAVnAl@^X`@\\jAlAjA~Ax@zAP\\N\\^~@Pf@XbATz@TfAPfAPrAXxDh@xIdApRf@zITpEJhAJp@Nz@XlANf@Th@Vf@f@z@`@f@`@`@`@\\b@Zl@Zt@`@h@XHDn@b@?@VRVT^h@f@x@lAtBh@r@XZr@j@j@Z^RnFjBrAn@vA`Av@r@x@bA`AdBXr@Xz@Rr@N|@RlBHpA?n@?n@EhAIbA_@rCe@zBqBvGcAnDq@xBYjASfAMdAKtACdA@dBHnBJzBFnA@|@Ez@M|A_@`DOtAGfAElA@n@@l@Ft@Fn@R`AH\\Lb@^|@b@|@Xb@j@p@j@h@p@f@n@^`@LDBZJjAPlC\\`ARZJXNl@\\RNZ\\j@r@PZ`@|@`@|@d@~@^f@NTf@h@vArAVR^`@@@\\d@FHNXJRDHJXJTRt@Lj@Jv@Db@Dd@VfDLvAh@dCl@~B`AxA~@tAdAjAxBhBhFfExBrC|AlChAtCf@`ET`EDtDI~FGbBKdBs@nGc@jCWnBQfCG`BAdBB~BJfCXpCz@tFR`ABJBRA\\EJAHAH?J@J@HDLHJHDJBHLHJDHFHH^J\\NXJP@@BBLPNNpAtAZb@LZJXZfBZlBXhB`@dC@LLv@PfAHf@ZfBDVFP@F\\bABNDVBT@LB^?X?FCz@At@BZB^\\~Bl@fEBH@HFf@Jr@`@jCBV@PARCNELGLKFMFM?MAKEMKmJeJMMKKGEICICK?GBEBEHEJAJAL@HDNN\\rA~CHTBJ@LAFADAFEHEFIDI@I?ECGCII}EgG}AoBMOOKIEKCICK?I@I@SJQLkA~@wAlAUNIDE@KDK@I@KAKEaAe@o@[u@_@aCiAiAe@e@Ke@Cg@?e@?e@Ha@Jk@Xq@d@_AdAa@h@uAfBu@~@oAvAw@n@iBtA}@r@wAfAa@Z[ZOPMRa@z@uAfDM]KUc@KM@U@SDGD_@Zw@z@]Lu@JSNa@Rc@EY@OHYTQBMAOIIGGIKQISKo@GYGQGOIKKIMKMEOCMAQ?K@MFKJMLOTGJOJIDMBM?SEOEOGKKKSQUKSQ]IUMOMMOKSMMIg@UQOKKKMOQGMGMKIKIIIK?C?MCKAMGQC_@CUBS@QDQ@MCMIOKYUSOWQ]Wc@Qa@QOGMIMQOUMSIIGCKCO?SB]DM?Q@QBUFUd@a@hACTCb@BP@l@?REnAo@jE]dAGzA?`Bt@pE\\fABVADATCPAFAD_@p@CHOl@?l@HZLHVGNBNLNTTRTFTDHRJtCKXg@t@ORMPKRI^JRb@JVTPMPKZNT`@Rx@\\vBHxACR@b@HZJ^?l@Kl@Mj@GHGHMLU^_BnDG`@y@jBc@dAMh@sAzBgBnDOz@C\\Yh@AZCxBOn@Ez@@nA?DA`@Kb@a@x@Wt@Ul@[n@S^[TYxAGLILAPF^L`@Nh@L`@Pf@Fr@Bb@JVB\\?f@ETKVYDUFKD}@n@SR}AvAgAz@a@ZcA^MNUf@KZi@`AEVHZXZVXVb@L\\Lf@CZ]x@c@tBUt@Qz@M`@Kb@E^K`@ITEIm@mAGQG[MkAOs@I]GGIGYIS?O@UEc@E]EQIc@SSMMQGIIGGCEAQACECCAAECGAE?C?E?G?K@I@I?IBM@MBIBK@IBE?C?EAECKIOMGGCECEAEAC?C@E@CBADAFAFCD?FCDCDCDEDGBEBCBE@C?C?CAECCCCCAEEEECEEIAGCIAIAI?G@G@GBIBM?M?EAGCECEAAAA",
+            "weight": 4217.2,
+            "duration": 4217.2,
+            "distance": 38022.9
+        }
+    ]
+}

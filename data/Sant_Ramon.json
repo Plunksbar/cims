@@ -1,0 +1,30 @@
+{
+    "assencions": "1181",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/sant-ramon/",
+    "comarca": "Baix Llobregat",
+    "altitud": 295,
+    "latitud": 41.3377752491,
+    "longitud": 2.01117775092,
+    "utm_31t_x": "417264",
+    "utm_31t_y": "4576726",
+    "essencial": true,
+    "nom": "Sant Ramon",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 2802.1,
+                    "summary": "",
+                    "duration": 2802.1,
+                    "distance": 21075.7
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@LRdCrDBDHLDFPVbAzA`@h@BD`@n@LPd@l@BBtBzCBDfA|ANTTZNTT\\BDv@fAt@fAX`@BB\\h@^h@f@t@PTBDFH?@FHFHHJPXBBBFFFDHNJPDHDJLHLDDJLDFhAbBBBZd@Zb@dA|AT\\Vb@DD\\h@DFRZpBpCDFZf@X`@PVl@~@j@z@DF\\f@DHV\\^h@bA|ABDV^FHZb@f@t@|@rADHZd@^f@xAvBFH^j@Zb@T\\^h@l@z@DF^j@RXJNbCnDDHLPFHV`@T\\HJVb@~@pADFNTDFHLp@~@HLt@fAHJZd@DDZh@p@|@x@lA^j@\\h@p@bAv@hABDTXFHDFPTBFb@l@z@pAJL\\h@b@n@r@dAf@r@HNFFZd@V^FHV^Zd@Xb@LPJL^l@`@h@p@bAj@x@HN^h@BBPVv@hAz@nADFV^BD\\h@hBhCDF`@j@JPNRBDLRHLFHDFHL`@h@FJd@p@r@dAJL\\h@HH@DHJ\\f@t@fAHJd@p@p@bAHL^h@b@l@JNb@j@DFBB@B`AxAHLDFl@|@DDV^@Bj@v@HN`@j@`@l@j@v@JPb@l@JN^j@`@j@x@lAj@z@BDBDBBT^HJFHFJ|@nAdAzA@BJNRVlAfB^j@DD`@j@JPX`@~A|BBDJNT\\TXHNdBdC@B^h@^h@|@nA@@h@v@@B\\f@FHZb@`BfCBDLRRXTZHLt@dANR^h@BD`@l@\\h@`BbCBB\\f@FHXb@lBlC^h@\\j@BDb@r@v@nABBDFHJJFNBdA}Ap@_ABELSV_@JMj@{@^k@NSRWBEV]LILEDGLOR[d@w@LMDGFEHG@?BA@AF?H?HBDBBBDHHRHLJJLFLDNBJ?PEH?D?F?FDJJt@dADFTV@@B@\\f@bAtA`@n@HJ^d@^VRZTZFHTZBHPRDFBD@@dA|Ah@t@n@`AFFV\\bBhCDFRZTZBD~A~BLNDHFJDHX^FHX^LRn@`ADFPVv@fAb@n@r@bA@BBDx@hADHFHLPDHNT|@nALR@@@BNPDJ@@DDJPBD@@NRZd@h@bAn@|@nJjNj@|@`BfCzClEJNnBjCjCpDpBfCzA~Bf@l@HL@BHJb@p@RXfA|ADFz@rAfA~At@hAvApBPX`AtA\\d@fCtDnAjBlFxH@?f@v@jAdB|CrEDFhBpCxGxJnAbBnAfBh@|@b@x@jAxBbAnBx@xA|A`CV`@dAfBp@dApBhCJLbArAn@~@zAxBDHd@p@fBlCZd@V\\rAlBDFHNfCrDx@jANRLR^l@DDdBdC|ClEx@lA|D|FrKxOrCdExAtBb@l@n@bAlCbEbAxAT\\xArBtAtBt@pAVb@f@`AFJj@nARf@bAnCj@vBb@hBRv@vEjRdClKpBlIjA`Fv@nCDLL`@XfAx@xB\\fARt@Pr@RbAJt@Hz@Ft@Bx@@t@@`BCz@Cz@_AvNc@rGW`DWjDWrDQ~B_@hFIpAC`@_ArMa@pFMdBQbCE~@Cd@Al@AfA?lA@bG?dE?|AAj@Ah@CrAC^C^IhAIz@Eb@G`@Gh@Id@e@bCUjAWlAe@xBg@tCIr@MnAWlCSrCGt@Eh@k@jIEr@Ed@CLELEHIHEDEDEDCHENAP@RBNHLHTB^?h@C^QbCANGv@Eh@YnEAJARGbAGp@Eh@A~@@lABh@@Z@j@AJ?LE\\AHQh@EBEFGLER?\\F\\JLNHPDJ?TDVJNFZLFFHF^`@BDNRZd@n@`ABBDFBDBBT\\BFjA~ADFPVGLAL?T?F@@ILABEHQZOVMTITg@tAe@p@KLg@v@GHw@jAU\\QVEHQZg@~@[b@SHMDGHO\\C@EBEDAFAH?HBF@BIZU`AKZ[x@O`@Qd@Qb@s@fBGPCFe@`ACDKTGJABILMXS\\IPGHCFKR[j@c@x@{@`BCFS\\O\\MXMV]|@MXWr@IVKVoAbDGNaBbEKT]x@q@x@EAC?GBEHABAB?H@FDF@@@@F@DDBDBJ@FBRBJBLFNHLHJDHLFRDPB~@@?N?jA?TAnAAJ@n@AF?F@FENALGb@SnAc@rBGXM\\Ud@CN?f@Dv@Dv@Ft@D\\Ff@RdAF`@LEDBD@BDBF?l@Np@B`@FrBBd@BTFNFNFLFJBHBJ@L@NANCVEVAVCR?VAZIzAAh@CXAXAZ?X@j@?ZBXD\\Lx@DTDVDVDVLr@Nr@T`ADTFTFVHLDPBVBL@R?VE\\AHEJOXO\\IVK\\I^Mx@Kb@I\\?N?T@d@Aj@AZ@XDXBV?TEd@GNKZENKVGX@TF^D^F^FVH\\Jt@An@Cd@Id@@HBDD@FGBIFUL]N[LUFS?c@?g@Be@DUDQHOHKHELIJIHKJQJSP[Tk@HWL_@HKFAD?FFBFAPGREPG\\Gl@Ml@ELCHKVQf@CN?P@LLr@Jz@@TGPIPENI\\Ib@EZMdAAD?v@?N",
+            "weight": 2802.1,
+            "duration": 2802.1,
+            "distance": 21075.7
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "assencions": "1058",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/puig-dolorda/",
+    "comarca": "Baix Llobregat, Barcelonès",
+    "altitud": 436,
+    "latitud": 41.412212,
+    "longitud": 2.055209,
+    "utm_31t_x": "421038",
+    "utm_31t_y": "4584948",
+    "essencial": false,
+    "nom": "Puig d’Olorda",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 3234.9,
+                    "summary": "",
+                    "duration": 3208.8,
+                    "distance": 19665.8
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@LRdCrDBDHLDFPVbAzA`@h@BD`@n@LPd@l@BBtBzCBDfA|ANTTZNTT\\BDv@fAt@fAX`@BB\\h@^h@f@t@PTBDFH?@FHFHHJPXBBBFFFDHNJPDHDJLHLDDJLDFhAbBBBZd@Zb@dA|AT\\Vb@DD\\h@DFRZpBpCDFZf@X`@PVl@~@j@z@DF\\f@DHV\\^h@bA|ABDV^FHZb@f@t@|@rADHZd@^f@xAvBFH^j@Zb@T\\^h@l@z@DF^j@RXJNbCnDDHLPFHV`@T\\HJVb@~@pADFNTDFHLp@~@HLt@fAHJZd@DDZh@p@|@x@lA^j@\\h@p@bAv@hABDTXFHDFPTBFb@l@z@pAJL\\h@b@n@r@dAf@r@HNFFZd@V^FHV^Zd@Xb@LPJL^l@`@h@p@bAj@x@HN^h@_@j@[`@o@`AW\\A@a@l@GHQXGH}@nAi@v@CDY`@CDa@j@u@dAk@z@GH[b@GJ]d@_@h@_@h@EFCBKNA@GJCDED??CDCD@LDP@HJl@TnAb@hC@HDZFV@NF\\TrA@HFb@@R@JFj@@FDj@B\\@TDTDJDHBHRh@DH?FdBpK@Hn@zDBJ@DHh@@HBP@D@JDTNz@@F@JJh@Fb@@D`AbG@HBH@HjAfH@JJh@Fd@@DDRVdB@D\\rB@HFb@Jj@?D|@nF@HJh@Hf@@H|@vFH`@Fb@F\\DV@JDTBHJr@BV@H@H?H?HAPKJKPGTCT@`@@HDNFNJJJJB@B@AX?R@TBN@BtAxIPfApAdITrA@FFb@BNF^h@vC?DN|@Lp@^|B?FBN@D@HBHBRjA~GBV|@tFFb@@Bv@rEBP@D@HHj@FZbAlGJj@`@dCTxAt@pEHh@@FBRC`@AP?J@L?B?D@HBV@HFVFRFLFJHJJHD\\dApGH^D\\jA|HHf@@D@H@F?H?H?HCJCPAPAd@?BD`@JTZVNFL@D@N@J?JATGJn@@HJh@D\\V|AF\\F^PfAF^Hf@BJbBhKHh@DTN~@BJHh@Hh@Hb@@HRhAnB~LXbBJn@BNPfADPF^Hd@D\\BNHd@FZFb@BLV|AF`@DVBH\\xBHb@d@tC@JBJHh@FZ@FJp@XdBDTBLRrAJn@BFD\\Br@Jl@@LZlBNfANj@Hh@PjA`@lC^|Bf@xCLv@|@jFlAzHj@tDRrANhBHtADjADhA@dBAbAC|AGpAIpAMpA[vDUlCQpBObBK`BGfAAvA?bA@bANbCHp@Fl@Jj@Hh@R~@Rv@Vx@Zz@Vj@Xl@dAdBnA~ANNxA|ArCpCxAjBb@n@x@hB^|@Pj@Nh@Rx@Pz@Jn@Hj@Hp@Fr@Fz@F~@Bx@PfER`F?lE?|@ApAEj@Ct@A|CAfAAn@CPCNETENEFEBQHOHIJIREHWPs@XyEtAq@NQBMCEEEEIEGAE@E@IDEHEHAF?@?@?L@J@D?RAZKrBKjBCd@G~@KzBO~CCZEbAIrAIbBCb@Cd@AHE`@CRKRGX?b@?H?B@@@NBJ@P?^?F?J?`AA^F`HFbH?F?T?LC@CBCBADABAD?D?D?D?D@B@D@B@BBBB@@B@f@@x@BjCBlD@zF?tC?pD?P?V@`A@`@@f@JtBF|@?F@PANGBGFEFCHCHAP?JBJ@DBHDDDDFDHNHP?F@t@?P?h@@x@?J@ROHOH{@d@UJQJ]POJACACAAC?A?A@A@E@OHa@R{@d@UJ_EvBSJ}C`BSJa@R}Ax@C@{@d@oAp@GEGAI@EBCFCJ?LK?QFWJKJIFs@|@EDIHMRmAjAc@`@[XiCdCOPOLKJON]Zg@f@AECAC?A?C?A@A@AB?B?@MB]FyCh@Q@W@W?EAE?E@K_@Mk@Kc@Oa@KQOSOQgAoAmCyCSOQMg@]c@Wm@_@i@WqAe@y@WEEMMu@[MEs@]OUa@Us@e@y@g@kAy@aDgBu@_@oCq@mA[k@e@Wq@WmA_@iA}@iAiAeAYQMGOE@MAMAOE]Ec@CYE[AGGIGGKESKGEEICI?K@MBIFGDEFENIJGHGFIDMBMD[F_@@MAKAGYg@EICMAK?Q@SBMFKHGFAESCGGOKSKUO]GQK]G[EWCWGw@CQCICIGE][KIIGOEM?c@CKCKEOK_@a@]g@c@cAGIEGOOo@a@[K_@GMCSEOCMCMGKIIMGQMWGQMKWE{@Re@A{@]WSi@e@SKa@?MAIEMQg@sAQ_@QOSGM?e@FS?UIw@o@QMSWMSQ[WUk@_@WUUWs@{@g@q@[c@GQGYSw@KUIGQOOIOCGAK@UDf@`@PZ\\p@Np@KHELEPDRN?LGJ?JLJT^lBQ[Ym@SUUCm@Pc@TYVKICMBo@E}@]m@e@Oe@Ci@@WAMIa@Ui@Ko@_@SMKEKAK?KDIHIJKFKBW@w@SM?M?KAKEMKIEQGKEQCI?E?MBMBIBe@Vc@\\Up@It@Eb@CRKv@Mj@Sl@Ul@c@j@_@TKZ@^CJALBLI`@C\\ITMZO`@Ip@Bn@?XEJM?YYYUg@Ug@E_ALo@b@g@P_@P[VOL}@tDSf@]V]j@??",
+            "weight": 3234.9,
+            "duration": 3208.8,
+            "distance": 19665.8
+        }
+    ]
+}

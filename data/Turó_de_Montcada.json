@@ -1,0 +1,30 @@
+{
+    "assencions": "510",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montcada/",
+    "comarca": "Vallès Occidental",
+    "altitud": 273,
+    "latitud": 41.477208,
+    "longitud": 2.176612,
+    "utm_31t_x": "431253",
+    "utm_31t_y": "4592061",
+    "essencial": false,
+    "nom": "Turó de Montcada",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 1416.1,
+                    "summary": "",
+                    "duration": 1358.5,
+                    "distance": 10783.1
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVw@@c@@Y?I?I?mA?s@?gA?cA?]?UAK?G?e@@E?e@AI?y@@y@De@Bg@FWD_AR]HMBg@Lg@PwAn@a@\\wCfB_B~@eBbAm@\\_B~@OHSJEBEB[TQHIFoBjAeC|AEBEDYTSNCBC@CBUJQJSFODGBQBSBY@]@[?k@G]Ga@MIAg@K_@ImBc@y@SYIuA]i@MCAICYGEAiEeA{EgA]IKEIAeCk@qCo@sA]mAYcDw@o@MqCm@wBe@{@QmAW{@Qq@OGCe@IYEYGi@KuA[kAYUGWEw@SeASkBc@eGwAeCi@{@S{@SuA]e@Kk@Mw@SE?{@UUGKCk@Ma@I??YG[I]Iq@Iu@Eg@CqAGcBCeD?_@?U?kA@]@I@aADuBJwBHgABwAJ]Bm@Jq@PSHSJULQLQNQNSROR_@d@W^s@hAk@`Ak@`Aw@vAw@xAw@xAm@fAi@|@i@z@q@`Aa@h@_@d@QRc@d@i@l@A@A@A?CBc@`@{ArAwJxHSNIFy@n@_CbBSPONcGlEeCdBm@Xe@PODG@e@Fi@Dq@?g@E_@Gg@IaIyBoAe@SKa@Ww@q@iCwBiLkKiHqGUUMOMQwAyBK]G]CW?_@AMEKEOMG_@ESQI_@C[Y\\]d@CBMZEZBZDJHLNFPAZIFAH?J@NNNH`A|Av@hAPV\\b@d@`@r@p@dA~@~@bAdHfGtBnBdB`Bh@v@PRPPb@`@r@t@bAp@VP\\TJJDN@V]rAGJILKHIBI@SEOGIKMUKU]_@i@i@OKWYe@k@o@w@a@[m@Wi@Mq@a@GIKU_@U}@aA]i@QGc@Kc@Ii@C[EOBIFCD?FALFf@@ZJdADb@Pj@HPFT?ZAHKMy@uA_@m@a@i@e@k@q@We@]Yc@a@u@i@k@S]Wc@UUMOW[Vj@\\v@n@~A\\|@R`@Zl@BTDh@Pv@RnANrARlAHt@Fr@Dt@F|@DZ@REJC?EAG]CIG_@G]ESKc@Ym@KMCIO_@??",
+            "weight": 1416.1,
+            "duration": 1358.5,
+            "distance": 10783.1
+        }
+    ]
+}

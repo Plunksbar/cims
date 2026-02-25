@@ -1,0 +1,30 @@
+{
+    "assencions": "1063",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-montgat/",
+    "comarca": "Maresme",
+    "altitud": 40,
+    "latitud": 41.4658949776,
+    "longitud": 2.27868166694,
+    "utm_31t_x": "439765",
+    "utm_31t_y": "4590729",
+    "essencial": false,
+    "nom": "Turó de Montgat",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 727.5,
+                    "summary": "",
+                    "duration": 727.5,
+                    "distance": 10374.3
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBOwAGaAKuAIsAOeBOcBIeAEcAAm@Am@AaB?WAU?SEYW{Ay@cD]cAi@qB",
+            "weight": 727.5,
+            "duration": 727.5,
+            "distance": 10374.3
+        }
+    ]
+}

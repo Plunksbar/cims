@@ -1,0 +1,30 @@
+{
+    "assencions": "1377",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/la-morella/",
+    "comarca": "Baix Llobregat",
+    "altitud": 594,
+    "latitud": 41.2965325027,
+    "longitud": 1.91548593125,
+    "utm_31t_x": "409200",
+    "utm_31t_y": "4572243",
+    "essencial": true,
+    "nom": "La Morella",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 2863.6,
+                    "summary": "",
+                    "duration": 2863.6,
+                    "distance": 38216.4
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@LRdCrDBDHLDFPVbAzA`@h@BD`@n@LPFI@CDEHMDGT]DIPUHMT[PYT[BE^k@^g@jBkC`@i@^k@^i@t@gADGBEBER[LQBEXe@DIBCZe@FKBCBG`@m@V]T_@DGBC`@o@V]DG~@sAl@{@DE^i@T_@fBgCFI@C\\i@Xa@DER[FK@?DKFGBGDGHKT]JO^k@^k@HKBEBCNWBCNWBCf@u@d@w@h@u@BGDErAsBDG^i@\\i@d@q@RWV_@DGLQ^k@FGVa@\\i@Xc@r@gABC\\i@\\g@BET]Zg@JOl@_ABEFKJMJQDEd@u@\\i@nAoBLOT_@HM^c@BET]JO@CJOPYT[JQNUBAJQHMf@u@FKV_@\\XBBZ\\B@`@d@PPZ\\??BBDPHLLPZZfCnCVVHJFFBBFFDFPP\\b@j@t@f@n@BBBDFL@D@@@F?F?DBD@D@@BBB@B@B?B?DABABCBC@EBE?MFOHKLSDEV_@l@{@BEFIFKPWD?D@DBHNx@lAx@jAx@lA`@j@JL\\X\\VZd@@@rApBJNJNj@z@NRtBzCfF|H`Yra@NV^h@f@r@nBtC|BpD@@DFr@nATf@Zr@\\`AFPL\\Tr@hAxCf@rA`ApC\\|@j@~AbBtERj@@B~B~Gh@zAV~@Vx@Vr@l@jBVhAN|@Hd@Lb@Xt@Xp@V^^^`CfBhOjL~@n@r@p@h@h@\\ZNHZJj@Jf@Fv@HTB`@FLDNDTHXNLJB@NLbAv@j@b@r@j@PN`@\\h@d@f@`@ZX`FtDPLn@d@PNhBdBLJf@b@f@Xh@Zh@RpA^lA\\bAf@NHZTd@`@rAbAv@h@p@b@x@f@|@f@tAn@nBx@z@^VLHDn@\\x@f@bInFjBnAj@d@VTRTZ^`@h@dErGn@~@n@dAt@pA|@hBXh@b@v@^l@pCfEnAlB\\d@\\d@vAbBnFfGpAxAbGzGj@n@FHPRFFDHd@l@r@bAf@x@d@x@NXLVZp@Zt@d@pAPj@`@~AJb@ZrAJh@FZLp@X|A\\~BVdBl@vD^rB`@tBVbAV`A`@rAzA~EJZN`@d@~Ap@tB~@xCz@nC`@pAhArDvBdH~@zC`A|C`CjIvBnI|AlGHZx@lDlLff@|ChM|@tDtBdJL`@VfAhClKPx@Nv@Nv@PjALx@Jv@Hv@Ft@HdAFx@DbADxA@z@@z@?z@?n@?JAt@Ad@Ez@Aj@Cb@Ep@Gx@I|@U`CKjAI~@MnAGl@M|AS`DOnCIxBIpBGzCErDGtF?^KvGAd@GzDAp@IlDCnBGtC?`@ErBE`BAv@GtAGxAGdASrAMz@SdAKt@WvAOn@Of@Qj@Qf@Sd@S`@W`@WXa@`@]Z]VEDID]RYPa@PSFUHa@NUF_@HgAXa@Jg@V[Ra@VQNWTe@j@_@r@Yt@Qr@Mt@Kx@Ev@?j@Bl@Fl@Hb@Nf@Rd@RZRXRPRP\\RPHTFVFTBT?VAVCVE\\KZK`@OVI^KVGVATAVBZFVDRHzAt@jAx@jA|@bBxA~AbBbBpB|@hA~A~BzAdCtBhEvAhDz@dCNd@l@rB~AzFzD`Of@hBbBpG|BbItAhFz@fDTbANv@Nx@F\\PvAJfAJ`AFpADl@DjABxA?pBAtBEnDAnCCzA?XGjJCfBAnBBjG@bAFrAFnAd@hFd@jCP~@nAxE|AzDlBbE~CtGlAjCxBxEjBzDlDnHpBpE`CxEnA~BfAlBxA`CDHjAdBjDhFrK|Or@fA~DfGx@dAdCpDdB`C~@lAf@n@~@fAx@bA|@bAh@j@XXNP|@|@dC`CrCdCrBbBdChBfKjHpDfCXRhEvCbDzBjHbFpE~CrCpBvCzBdAz@rCbC|BtBRRfBdBdCfClBlBzC~C~A~ArBpBhCrCd@h@bChDdBnCxDhH`@t@pMlVf@~@JR\\l@LTjEhIrE|I~C|G`ArBd@dAxAhDbDtHtFdMBDd@`ArC|Fv@xAvBxDxBtDfFtI~ClFdDlFvFrJ`G|JxBrDf@x@~@bB|AnCtAlCnArC|AvDzAbE|BbH~AzFjBvH|@~DdDzNzBxKlAbF|BjIdApCvArCnAzBLPxAxBZd@pAnBlB`D`BnDb@|@jA`DhAtDhA~Eh@pDNpANdAZrCd@nG^`HvClk@dBt[lAdU@PHpAHrALlCDp@XrGBb@N|HFxBD|@D~@Jz@Jx@NhA\\vBp@~DVnAd@xBh@hC\\bB|BhKPz@RrAh@xD@R?FBLHl@@J?HAHCNGPORUV]\\KNk@h@_@Ri@Zi@LkBZcBRQCOAKCKCECECE@E@CDADAB?FqBFSBQDo@dAKLOFGCIMEQKe@O[a@k@_@m@OYWw@YoAEMEGGAIBEDCJ@NJ^Hb@Dh@Lf@z@tCFZ@VCVCRIPMXAN?NBJLVR^DL@P?T?RANCJEBE?EECKS}@IQS_@GWE]GcAGe@Me@Qa@IKIGGAC@CDAHBJPb@DT@LDj@?d@An@@^Dp@@\\?f@Df@RjBLv@@XAPEPIFI@GAGEEKEKCQI]O]oA}By@{A[a@UUKKIEI?GDAF?JBPJZJ`@H\\H\\Jx@@XATAHGHGHKDMBeB`@[JSFOFMJSVMVO^_@j@a@d@EJAHAJDLJb@Lb@DJ@F?PCRM\\s@bA[\\GLENETCt@Cr@IvBEr@CREFGBIBIAeAa@mAm@OIIAG?G@GF?BCJ@J@LDNd@pAFRFXHf@Hv@D^DPDNFLJXLXl@jAXn@J^F\\DZ?JAJCLIHGDODU@sAM_AGWCM?Q@OBKDGFSVITEVMfBEn@GPERGJUXMHMHUBQ?o@@I?M?S@KBE@KLADGRS|@[vAI`@GPKRMJKDK?MAYG{@W_AYiAe@k@M_AMu@OSGOA[CkACu@Co@EY@Q@SBGDIDs@\\e@Vc@TYLUFO?OAQKa@Y[SUSGCIAE@I@IDINSdAIPGNILIFKFODU@y@Bo@?oAIo@EGBGBIHEHCLMtAG`@CP@NFZDVBT?RANUxCCN?J?H?H@JFNPZ\\l@@DBFBLBH@H?N?n@?T?VARATAN?BEJCFCDWb@GFCBEBG@I?EAMOQUgH_IIIEQAQ@_@AWCUIKGAKBa@Je@Hs@JSD[N",
+            "weight": 2863.6,
+            "duration": 2863.6,
+            "distance": 38216.4
+        }
+    ]
+}

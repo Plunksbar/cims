@@ -1,0 +1,30 @@
+{
+    "assencions": "1276",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/sant-sadurni-de-gallifa/",
+    "comarca": "Vallès Occidental",
+    "altitud": 942,
+    "latitud": 41.702765106,
+    "longitud": 2.12295683181,
+    "utm_31t_x": "427028",
+    "utm_31t_y": "4617147",
+    "essencial": true,
+    "nom": "Sant Sadurní de Gallifa",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 3339.6,
+                    "summary": "",
+                    "duration": 3026.4,
+                    "distance": 40119
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVw@@c@@Y?I?I?mA?s@?gA?cA?]?UAK?G?e@@E?e@AI?y@@y@De@Bg@FWD_AR]HMBg@Lg@PwAn@a@\\wCfB_B~@eBbAm@\\_B~@OHSJEBEB[TQHIFoBjAeC|AEBEDYTSNCBC@CBUJQJSFODGBQBSBY@]@[?k@G]Ga@MIAg@K_@ImBc@y@SYIuA]i@MCAICYGEAiEeA{EgA]IKEIAeCk@qCo@sA]mAYcDw@o@MqCm@wBe@{@QmAW{@Qq@OGCe@IYEYGi@KuA[kAYUGWEw@SeASkBc@eGwAeCi@{@S{@SuA]e@Kk@Mw@SE?{@UUGKCk@Ma@I??YG]A{@EaBGyGQuAAyB@E?]@eADiAHaAHk@Fm@JWDg@Jg@Hu@X_@J]Ns@^a@TQLe@`@SRWX[\\]b@_@h@]h@]j@_@n@e@|@y@zAgArBaA`Bs@nA]j@]j@]h@_@h@_@f@MHKNGHy@`Am@l@C@UTWVSNc@h@aAv@gAv@a@Vk@ZcBdAi@Zc@V]Va@Xa@\\gAdA}@`Aq@j@s@v@c@b@k@f@[X[T[T[R_@PGBUL]L{@Zm@Nk@Jm@Hq@Fq@By@As@Eq@IiAQu@Ui@Sg@Sc@WcAm@}@q@_A{@}@}@cBiBoE{EoAqA}@}@cB}AsAkAmB{A}@o@}@m@sAy@EEsAq@wAo@sAe@cAY{@SsAUiAOiAKeAGcAAy@Au@B}ADuAJuDX}BRy@FmAJ}AHmABM@oA?cAAo@Co@Ga@Ca@Ey@Qw@Q}@Yu@Ys@_@{@i@u@k@{@y@s@y@q@_Ag@{@c@y@_@s@c@cAs@uAYk@Yg@g@y@i@u@c@g@c@c@e@a@e@a@}@k@o@[e@ScA_@gAY{AWwASwAQ_C]iBYMCy@Qw@SyA_@wAg@cBs@gAg@cAi@GEcBiAaBkAiA}@sB}Au@q@iCgCqFeG}HsJsA_BaEcF_DyDcGyGkBoBgDyCmAgAyBcB{BcBkBqAkEuCeHmE_IsEqAw@sDuBuIaFaDkBkByAy@k@}@o@g@a@YS{AmAy@s@}@w@wAuAyAwAg@e@YYYUYQUKSGUGUEWAW?S?UDUF[L[PUPOLs@p@{@z@i@p@kA|AYl@a@|@Uf@qAxCYx@Ux@{@xCq@rBOj@Wt@]hA_@bAYz@s@jBc@bAc@bASd@O^o@rAo@pA_AbBKRYf@w@vAk@dAYj@Yn@Wn@Wp@Up@St@Qr@Or@Ov@Mn@q@jESpAOv@Mt@Op@Qr@Ur@Sp@Wn@[t@Wh@OVKPMRMTSX[b@y@`A]\\a@^{AlAuAhAu@l@mAhAe@b@mChCeAfAq@n@QPwDrDo@p@c@b@s@z@aAfAsAzA[\\IJ]\\k@f@WRWNi@Vk@TGBYFSDWDS@i@Bi@B_A?aA@k@@i@B[BQBOBWDUFSFSFi@PiC~@C?a@NC@_@N]P]P[R_@Vo@d@e@Z]RWLQHWJ[JYHa@Hw@Jy@HiBNsMxAqBTy@Lk@HkBTkMxA_Hv@iCZe@FWHcALwAJa@@g@@s@CW@e@GEAw@My@S}@Y{@]y@c@u@e@q@g@q@g@g@a@g@c@i@a@i@_@k@_@i@[k@Wk@Wk@S}@W{@Sg@Kg@IgAIcAE_AA_A@]@kAF}BLkBH_@BiMp@aADaBHkAFk@DaQv@g@@iBD[@q@BoNEiEMaESwEUuE_@sE_@wESuCEuC?sDFuDJaBNcHp@wF|@gE|@cEhAeKrDcCjAaBv@a@TiCxAqBlAq@`@cJfGIHiBnA_BdA_@d@_@v@Qd@ITKHMHINCRKZQXi@TUAmDJmLf@sHZwHZmCJ_@BuADu_@bB}Eb@_@?i@H[Dk@Lq@Re@JWFi@Pa@JUHUFWLSJk@X]Xm@^mA~@CBOJy@p@WROLa@\\wFrEwGnFuAjASHa@VYP]Ti@Xk@V_@N_@L_@Jo@L_@F_@D[D_@BG@O@I?g@@s@?g@?M?K@}@ImAWaCk@gCcASGqBw@{@W{A[sC_@gAEkCHuCHmADiACu@Gu@EeBQiADWBYFWFIDo@Ry@b@KBOCCECCECCCEAGAE?G@E@EBEBCDEDCDAFAFAH?F?F@HEd@G^Sn@S^GLcB~CsAnBi@r@m@f@}AfAwBr@aFr@mCd@mATkBdAEBQDUPe@^e@b@IFo@t@MP_@f@O^KPIP_@v@g@pAa@tA_@hB]hCKt@a@~C]tA]`As@tAo@n@s@j@s@`@_E`By@l@y@x@MFYVWT[RSLUHSFY@YAQCWEQGUGSMIEGC[Q_@QKGQAGCQGUE[EOAYBUDaBh@iCx@K@E@Q?a@Km@SUA_@Dk@Zo@^SBS?SGu@]aA_@k@Mc@KWG]GSEIAUESAQDOFe@^Y`@UXUTQPQH_@NI@]@eAIo@Eq@EgCQOAq@Eg@Iy@Oi@KaCa@_Di@gB_@eAc@]Os@OqAMgDBsBDeEXkBL}ANe@?kAGoFs@aAYyBw@iCg@}@c@_Ac@qAa@_AIgEJyADaB?cAIk@K_@Mc@QUQcAu@oAw@}@Yq@W]W_@W}@w@e@Ss@Mk@@gBXaDn@k@Ra@VuAfAs@l@w@l@g@Rm@?eAS_AWm@Yo@k@w@e@}@]gAYWAYFYHWNcAx@cAv@eAx@a@\\WRIDQJGBI@S?OEGEKEQOMS[e@OQMIIAI?QBOFMJYR}AdAGDo@b@}@l@QJMHIAC?EAGEII?C?EACAGEGECEAG?A?E@CDEDAFAF?FCFEDGDCFG@E?E?E?S?i@AUCYGUGiA_@_@OGCKCIE]KUISE[E[?k@B]B[HYHoAh@OD_B?a@?m@?SASEICGC{@[UKQMSMmAcASOKRGLA@EFGFIBK?_@@}ADs@?K??]?G?MAa@?QWBWBO@O@EDAVAl@CxAOBKAG?I?KHSPWTQPEFI~@Oh@EZMXIRGHSF[HIACBGBKXAHSp@a@jBALAPAXAh@ALELOVFNl@nAr@xAVd@BDTd@HNx@~AFJDLJj@Fd@@PAPELILQTW^QRSROJQPG@EDEDCDCHCFCFAP@N@JDLDJXZHLHPBL@H@H@HAH?HAHAHGVMh@GTAH?J?F?D@F@FDFBBFBD@J?v@Ol@K`@I^PX`@Ed@Wp@s@|A?j@Xp@l@Z`@FpB_@XDFHHJBn@UrDCLM\\a@^[Xc@\\UHUD_@Sw@y@c@i@WOuA]WIsBsBGGOI[CYFURWb@Yn@QXUPYF{Hf@e@Po@p@Yn@ITCZ@VJVhBz@f@\\fBv@P\\jAvDHp@BlC@`ABfD@d@I`@m@xA[f@W\\[N_@`@q@b@]^WLYFQ@{@c@QEO@SJ}BdCQVWl@Od@K\\Sp@GLCFCDCBCDGBGFIDIDm@Vm@Vi@R}An@_A`@mCbAg@RQBMA}Cq@_@@a@RiErDMZCVB^l@lBRl@HVBH@H@D?H@H?HAH?FCHCFEHEFGFu@n@e@^a@\\EFGHCJG?ADCDAJ?N?R@V@^E^G\\GPKRKPMNIJWTSNOFA?OFI@G?ICKEIESIWMQGOCOE[GOCa@IQCSAI@G@EDAFAJ?JBLDJFRDLFRD`@?RANENILIPKLITORMJUPOFOFK@WBg@BQ@WBI@KAGCQIa@QOIc@WWOIEIAG?G@C?CDCF?HBLDLHXLXXl@DLBL?H?N?VCRCRG`@GREJIJGDKBMBQ@OBM@YBS@]CSASAI?K@IBIDGBABEH?F?D?H@JBHBFBFFFDFHFJDHBJBPFRHTDLB^HJBJDPJNJJHVRHLDHBJBJBJ@RBP?N@TAL?J@J@JBFHFJBF@H?B@JFL@??",
+            "weight": 3339.6,
+            "duration": 3026.4,
+            "distance": 40119
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "assencions": "1570",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/castell-de-burriac/",
+    "comarca": "Maresme",
+    "altitud": 392,
+    "latitud": 41.5374582022,
+    "longitud": 2.38733933206,
+    "utm_31t_x": "448895",
+    "utm_31t_y": "4598604",
+    "essencial": true,
+    "nom": "Castell de Burriac",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 2335.5,
+                    "summary": "",
+                    "duration": 2335.5,
+                    "distance": 27065.1
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBKc@W_BMgAe@yEMuAQeAO}@Mi@]oAe@sA_@{@k@eAm@}@g@m@g@g@aA{@u@m@_GoD}@i@WSwAmAk@m@m@o@gFuGg@e@sCmCsCcBgB_AaHwE}@s@_A{@cBeB_AiAqAkBsAyBiB{DgCyGGOs@mBiAyCm@{Am@oAu@_BoBeDuBwCkBmB_Ay@}@u@cCaBsAy@wGmDgGuD{CgCeAoAaAuAMOk@aA_@u@Sa@c@_A[w@Ww@WaAa@eBcAmGOmBGwAEwBAcA@wAD{AFkAH_AN}A\\}Bp@aDlBwHrBiIrA}Gd@wC^wCTcCLoBJuBDuBCkEQaEm@eFw@oDgAmDy@yBm@mAeCwDuDcEcByBcAyAy@wA{@mBk@}Ak@eBa@}Ac@sB[oBUaBSaCYaESmEGmECqQ?OCiDCqCIoCSkE[qDe@oDk@oCqB{Hy@mDo@_Ei@aEg@}CYsAYsAaAcDwAkDcBaDkBiCqBuB{BiBgGiDyEcCeCaBgBaBYWiCsDg@s@kB{DsA{DgA{C}@qCSm@y@uCm@gCs@}Co@oCiBoIi@iCy@cEwAgHwAgGq@gC}AyFcBuFiBiFaAcCeAmCsBmEeBmDaFqJ_FaK_CmFs@iBu@iBwFcQqCcKoBuIi@oCoAyG_B_K_@cCIgBMgAGy@OwAG{@UuBIq@Im@Ea@Iy@Ae@@i@@UBKDKHOJKHGHCNAL?L@NFb@l@?FBFBFDFDBF@F?BABADEDG@I@I?GAGCGCECCECGAE?C?CBUG_@QGIIIWY_@]CC[YaBsAqCeCiAcAqAkAk@g@WSCAMUGOCMAIAGGMECECI?KDGHCL?HGLGLKNYTA@WRMLa@`@_@d@QZKNEJ{@pBk@xAg@zAK\\GRIXADQf@M`@ADCHUn@i@~@o@nAmAjCQb@i@jAKTGNKRk@dAOVMXMRQJKDEBID{@LIBUHc@PQFIDGBe@VGDIDMFMDG?M?[MMG]OSAi@FUBsAIm@?M@SDSB]F}@R_@ZMRGLCFMLC@A@EBc@Am@Q_@Ia@FITk@p@GDc@Aa@@SBk@f@s@l@g@b@WJI@Q@oAMO?B]@SEIKE]MaAI_@@mAH[HKFSD{@D_@Be@F}@D[Be@PSDS?KKCQC[AGEGGCKAYLOPIRKH@BDRPX?LENMLGDIDKBGDQHIFQDQDG@KBGLBNHPJLHN@PEHMKOSU[QKUKOESGIM@WJUPOLCT?RALGLKJOFO@W?S@SBQFWFOJSJQJKHO?OCOKIK@EFINGNKJKFIHG?EKFOHOFMDGFKHSYNW@G@a@LOLi@XOFI?Y@WHY@]MUOYG]SQKWEI@MBMJEVGZOTMTe@h@_@t@Uv@Sd@M\\Ep@@z@Hp@@dA@P@h@Fd@LR@RERGFBXP`ADT^fADt@NdAFh@Ap@Gb@KXCTLMNQJQFSFYF]DYDOFOFMFIJCFAF?J@HBRJTJ\\P\\LFB",
+            "weight": 2335.5,
+            "duration": 2335.5,
+            "distance": 27065.1
+        }
+    ]
+}

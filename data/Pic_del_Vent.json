@@ -1,0 +1,30 @@
+{
+    "assencions": "1367",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/pic-del-vent/",
+    "comarca": "Vallès Oriental",
+    "altitud": 816,
+    "latitud": 41.6553025564,
+    "longitud": 2.12829694974,
+    "utm_31t_x": "427419",
+    "utm_31t_y": "4611873",
+    "essencial": true,
+    "nom": "Pic del Vent",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 2870,
+                    "summary": "",
+                    "duration": 2870,
+                    "distance": 38500.7
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVw@@c@@Y?I?I?mA?s@?gA?cA?]?UAK?G?e@@E?e@AI?y@@y@De@Bg@FWD_AR]HMBg@Lg@PwAn@a@\\wCfB_B~@eBbAm@\\_B~@OHSJEBEB[TQHIFoBjAeC|AEBEDYTSNCBC@CBUJQJSFODGBQBSBY@]@[?k@G]Ga@MIAg@K_@ImBc@y@SYIuA]i@MCAICYGEAiEeA{EgA]IKEIAeCk@qCo@sA]mAYcDw@o@MqCm@wBe@{@QmAW{@Qq@OGCe@IYEYGi@KuA[kAYUGWEw@SeASkBc@eGwAeCi@{@S{@SuA]e@Kk@Mw@SE?{@UUGKCk@Ma@I??YG]A{@EaBGyGQuAAyB@E?]@eADiAHaAHk@Fm@JWDg@Jg@Hu@X_@J]Ns@^a@TQLe@`@SRWX[\\]b@_@h@]h@]j@_@n@e@|@y@zAgArBaA`Bs@nA]j@]j@]h@_@h@_@f@MHKNGHy@`Am@l@C@UTWVSNc@h@aAv@gAv@a@Vk@ZcBdAi@Zc@V]Va@Xa@\\gAdA}@`Aq@j@s@v@c@b@k@f@[X[T[T[R_@PGBUL]L{@Zm@Nk@Jm@Hq@Fq@By@As@Eq@IiAQu@Ui@Sg@Sc@WcAm@}@q@_A{@}@}@cBiBoE{EoAqA}@}@cB}AsAkAmB{A}@o@}@m@sAy@EEsAq@wAo@sAe@cAY{@SsAUiAOiAKeAGcAAy@Au@B}ADuAJuDX}BRy@FmAJ}AHmABM@oA?cAAo@Co@Ga@Ca@Ey@Qw@Q}@Yu@Ys@_@{@i@u@k@{@y@s@y@q@_Ag@{@c@y@_@s@c@cAs@uAYk@Yg@g@y@i@u@c@g@c@c@e@a@e@a@}@k@o@[e@ScA_@gAY{AWwASwAQ_C]iBYMCy@Qw@SyA_@wAg@cBs@gAg@cAi@GEcBiAaBkAiA}@sB}Au@q@iCgCqFeG}HsJsA_BaEcF_DyDcGyGkBoBgDyCmAgAyBcB{BcBkBqAkEuCeHmE_IsEqAw@sDuBuIaFaDkBkByAy@k@}@o@g@a@YS{AmAy@s@}@w@wAuAyAwAg@e@YYYUYQUKSGUGUEWAW?S?UDUF[L[PUPOLs@p@{@z@i@p@kA|AYl@a@|@Uf@qAxCYx@Ux@{@xCq@rBOj@Wt@]hA_@bAYz@s@jBc@bAc@bASd@O^o@rAo@pA_AbBKRYf@w@vAk@dAYj@Yn@Wn@Wp@Up@St@Qr@Or@Ov@Mn@q@jESpAOv@Mt@Op@Qr@Ur@Sp@Wn@[t@Wh@OVKPMRMTSX[b@y@`A]\\a@^{AlAuAhAu@l@mAhAe@b@mChCeAfAq@n@QPwDrDo@p@c@b@s@z@aAfAsAzA[\\IJ]\\k@f@WRWNi@Vk@TGBYFSDWDS@i@Bi@B_A?aA@k@@i@B[BQBOBWDUFSFSFi@PiC~@C?a@NC@_@N]P]P[R_@Vo@d@e@Z]RWLQHWJ[JYHa@Hw@Jy@HiBNsMxAqBTy@Lk@HkBTkMxA_Hv@iCZe@FWHcALwAJa@@g@@s@CW@e@GEAw@My@S}@Y{@]y@c@u@e@q@g@q@g@g@a@g@c@i@a@i@_@k@_@i@[k@Wk@Wk@S}@W{@Sg@Kg@IgAIcAE_AA_A@]@kAF}BLkBH_@BiMp@aADaBHkAFk@DaQv@g@@iBD[@q@BoNEiEMaESwEUuE_@sE_@wESuCEuC?sDFuDJaBNcHp@wF|@gE|@cEhAeKrDcCjAaBv@a@TiCxAqBlAq@`@cJfGIHiBnA_BdA_@d@_@v@Qd@ITKHMHINCRKZQXi@TUAmDJmLf@sHZwHZmCJ_@BuADu_@bB}Eb@_@?i@H[Dk@Lq@Re@JWFi@Pa@JUHUFWLSJk@X]Xm@^mA~@CBOJy@p@WROLa@\\wFrEwGnFuAjASHa@VYP]Ti@Xk@V_@N_@L_@Jo@L_@F_@D[D_@BG@O@I?g@@s@?g@?M?K@}@ImAWaCk@gCcASGqBw@{@W{A[sC_@gAEkCHuCHmADiACu@Gu@EeBQiADWBYFWFIDo@Ry@b@KBOCCECCECCCEAGAE?G@E@EBEBCDEDCDAFAFAH?F?F@HEd@G^Sn@S^GLcB~CsAnBi@r@m@f@}AfAwBr@aFr@mCd@mATkBdAEBQDUPe@^e@b@IFo@t@MP_@f@O^KPIP_@v@g@pAa@tA_@hB]hCKt@a@~C]tA]`As@tAo@n@s@j@s@`@_E`By@l@y@x@MFYVWT[RSLIHSJSBO?I@GDGHAD?H?B@JDLBFBFPVZXTNPLh@b@pAdAtAhAPJHBH?PKHOFi@DkAFm@LUTMT?RJPZZ`BJXPNPBH?DZCh@CPERU^KLu@`AaA|@e@^qAnA]Ta@Ra@RcAl@ULKFQLMJQPIHSTKRIN[l@Sd@Qd@KVIXI^CNE^C`@APAr@?l@Bt@BfAB~BBpA?R?z@@XDJHHHBFBHCJGNOHMJGHAJAHBFBFDBDFTFTBFD@FBDADCFEFMLSHINMt@Yz@a@p@g@f@_@b@e@z@sADM@O?UAM?MD[H[L[HGL?LBLHFHFJFPTn@BJJHJFZJF@XHNFJNBJBL@\\?h@@NBLHPLRd@l@NPJHLFp@JbD`@JDJHJTHZL~@FfA@PDNTp@JVPT`@b@PTBJAJAHEFYHg@L_@TSPMXEZQbBEj@?j@@j@@\\F^FLJH`@Hz@P\\F`@Bt@CXCLAJAD?B?BBBD@D@F?F?DCDCDEFIDKFc@TWNWPULOHODKBK@Q?[?W?K@I@GBGDGFCDGLITIIKIICMCe@Ds@@q@AODILCP?PFVl@vAFV@TCXGXOZ]j@IVGVEZCb@KtAKb@KXKPOBICGMAK@SFQBS?]Cc@SoAGq@ImAIa@Oa@Q]SWk@_@i@K[BWDYHSPSXO^I`@AX@v@A^G\\MVMRe@d@WPUF]@a@Gc@?S?SB]La@RSPMNKTERCVAdBEVILOLWD[Ao@AYFOBQJUTKLITU\\]T_@LY@}AISBKFONOZQ^K`@C`@AXD`@R|A^rFDz@Ah@If@K^KVOPSH_@Dw@DyAJa@B_@JUJQJUXWb@Qb@I\\Ab@?vAIl@Ob@QXWNYBy@?q@B}@Fm@PwAx@[ROFQFSDOJM?MBODSLOHGBI@i@BW?U?KAGCGGGKISW}@M[EMIGEEGCG?G?G@IBKHo@t@UZU\\IFI@I@S?IBGDU`@GJGDG@GCGC}AiAGCICEAIAG@GAICGEGGGOGWGMGMIKIGWQ]WMKOMY][WQGSC[AM@M@UFWJ[JYJu@VKFKJKLKTUd@Wf@GJIFIDM@QBSDQBQDUJKFIHIHILITIRGRAN?P@RAHAJGNKFE@G?IAKE_@W_@SWKUKIEOKOSKS[w@k@mAMWKOICK?KDYJWPSPYZS\\GPENCNMd@MVMNIHM@M@MAO?KDGHOTeA`BOPIHIBK@IIIKQUMKOGM?OBSFYHODOBG?GAKEOMe@a@WU[WGGKMKWGSEOCKEIGCE@CD?F@JDNHb@Nj@Jd@Nj@Xr@Xj@L\\Rh@DL@L?JADAHCHGJGDMHVAJCPAZ?Z@fCh@dATd@J\\BNCJGFI^q@Pc@JOLIJE^CTIPOLIJ?NDLHr@h@HFN\\Jd@Jj@HZHPTXZTr@d@j@l@ZTLHNFHH@FAFCBE@K?OC[MUKa@a@USUIOKaBy@o@_@YOQEE?CBAD?B?F@DFDJDVRXX`@^\\b@f@n@h@t@XNJFLDVJb@HHBBD?FFARDP?PATATCb@E\\I^Kr@QZGTCb@APBPBNFJHJJLP\\\\^`@RRLLTRb@`@PNHHLHNFVJRFVH`@Ll@Nb@HTDVB??",
+            "weight": 2870,
+            "duration": 2870,
+            "distance": 38500.7
+        }
+    ]
+}

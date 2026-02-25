@@ -1,0 +1,30 @@
+{
+    "assencions": "525",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-den-mora-turo-del-carmel/",
+    "comarca": "Barcelonès",
+    "altitud": 266,
+    "latitud": 41.418435,
+    "longitud": 2.153352,
+    "utm_31t_x": "429247",
+    "utm_31t_y": "4585555",
+    "essencial": false,
+    "nom": "Turó d’en Móra (Turó del Carmel)",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 4054,
+                    "summary": "",
+                    "duration": 783.1,
+                    "distance": 5504.1
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVQTMPY`@EFABoAbBSXEFg@r@i@r@i@r@QX_@h@CDKNUZEHABCDCDu@fAEDGHGJMPEF[b@c@j@CDSXA\\C`@?LKlBALARARKtBATAVAJKtBAVARM`C?LATCR?HUlEAT?FE~@ALCZE\\SJMHOHMFSNCDIF]ZABOLA@o@h@EBc@`@q@j@GFEDSXMVAFABGRGZEPCNQdAAFGXIb@a@|BUpAMp@CJAFUnAERIh@I\\AFG\\G\\y@hEADG\\e@hCADCHKv@AFCLE\\OtBAFEn@Ef@Gv@Cf@QdCE`@AVEn@OxCCh@Cl@KxBAXCTC^C`@CVGr@ARGZADALF^`@z@`@hAHVbAfDBHHXp@zBr@vBZ`ANh@DNBH@Dd@dBJ^DLFLLVn@xAFLHJBDNLb@|@HRBDNZN\\`@x@l@rAHNN^R`@FLZx@DJLVd@dAXl@LVDLDHb@bATd@BDjAjCJVFJbAxBHNh@lA`@v@FNtAdDHRJVPb@fA~CFJb@lAd@\\NPFFXVDDB@RP@[?GBy@Bs@Bk@Be@LwB@SB}@?W?E?I?g@KWCEEIU[IKUS_@Ue@[QSACAACEDE@AF?B?t@E|@?z@Lf@JLBJB\\HZDd@Hr@Jj@Bp@F",
+            "weight": 4054,
+            "duration": 783.1,
+            "distance": 5504.1
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "assencions": "1087",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-den-galzeran-o-den-mates/",
+    "comarca": "Maresme, Vallès Oriental",
+    "altitud": 484,
+    "latitud": 41.5046857089,
+    "longitud": 2.26664062157,
+    "utm_31t_x": "438796",
+    "utm_31t_y": "4595044",
+    "essencial": false,
+    "nom": "Turó d’en Galzeran o d’en Mates",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 1376.8,
+                    "summary": "",
+                    "duration": 1376.8,
+                    "distance": 17822.8
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBKc@W_BMgAe@yEMuAQeAO}@Mi@]oAe@sA_@{@k@eAm@}@g@m@g@g@aA{@u@m@_GoD}@i@WSwAmAk@m@m@o@gFuGg@e@sCmCsCcBgB_AaHwE}@s@_A{@cBeB_AiAqAkBsAyBiB{DgCyGGOs@mBiAyCm@{Am@oAu@_BoBeDuBwCkBmB_Ay@}@u@cCaBsAy@wGmDgGuD{CgCeAoAaAuAMOk@aA_@u@Sa@c@_A[w@Ww@WaAa@eBw@yGOoBG}AAo@Bk@Fi@L]LQRMREP?PDNJRTJVDb@?^E^KZQZSVo@l@qBhBe@b@]d@MVUn@Or@E|@Bp@Fz@Ll@Ph@b@lAPh@FZXx@b@vAPd@@`@?d@EXGRINQ^IFGHcA|@aAx@i@\\i@\\eBbA{@j@[RWPMJSL_@Ta@VUNL`@?NCFCF]VEFSVQ`@EJe@fAK`@I\\g@~DIp@[`ASl@m@rAEHWb@CEI?UNAFADg@DS@q@DmBIyABq@Dy@Ru@V_@VkAtAURED_@ZeAr@}CjBa@Vo@b@k@R[FU@_@Mi@GS?QA?IEIGGK@GFAL@LDFILMTYf@A\\Bx@ALEh@Qn@c@x@aAxAUJWBYCc@Bi@Ri@XYV[j@i@|@c@`@a@NDd@Hd@\\nANhBAfA?lAI`CMv@Up@aAvAOp@ObBMnB?NBHB?FBJAVQ\\WRGRAVHLZCf@Bj@|@pC@vA}BiBSCGNNX\\\\Df@Kl@OTMG_@MSDYd@J`@Zz@?j@[fAEh@`A|DVxEb@lDC@A?CBAD?D@D@BBB",
+            "weight": 1376.8,
+            "duration": 1376.8,
+            "distance": 17822.8
+        }
+    ]
+}

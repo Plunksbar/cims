@@ -1,0 +1,30 @@
+{
+    "assencions": "1369",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/sant-pere-martir/",
+    "comarca": "Baix Llobregat, Barcelonès",
+    "altitud": 389,
+    "latitud": 41.3936585908,
+    "longitud": 2.0978784699,
+    "utm_31t_x": "424583",
+    "utm_31t_y": "4582851",
+    "essencial": true,
+    "nom": "Sant Pere Màrtir",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 5122.1,
+                    "summary": "",
+                    "duration": 1845.4,
+                    "distance": 12659.3
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@LRdCrDBDHLDFPVbAzA`@h@BD`@n@LPd@l@BBtBzCBDfA|ANTTZNTT\\BDv@fAt@fAX`@BB\\h@^h@f@t@PTBDFH?@FHFHHJPXBBBFFFDHNJPDHDJLHLDDJLDFhAbBBBZd@Zb@dA|AT\\Vb@DD\\h@DFRZpBpCDFZf@X`@PVl@~@j@z@DF\\f@DHV\\^h@bA|ABDV^FHZb@f@t@|@rADHZd@^f@xAvBFH^j@Zb@T\\^h@l@z@DF^j@RXJNbCnDDHLPFHV`@T\\HJVb@~@pADFNTDFHLp@~@HLt@fAHJZd@DDZh@p@|@x@lA^j@\\h@p@bAv@hABDTXFHDFPTBFb@l@z@pAJL\\h@b@n@r@dAf@r@HNFFZd@V^FHV^Zd@Xb@LPJL^l@`@h@p@bAj@x@HN^h@_@j@[`@o@`AW\\A@a@l@GHQXGH}@nAi@v@CDY`@CDa@j@u@dAk@z@GH[b@GJ]d@_@h@_@h@EFCBKNA@GJCDED??CDCD@LDP@HJl@TnAb@hC@HDZFV@NF\\TrA@HFb@@R@JFj@@FDj@B\\@TDTDJDHBHRh@DH?FdBpK@Hn@zDBJ@DHh@@HBP@D@JDTNz@@F@JJh@Fb@@D`AbG@HBH@HjAfH@JJh@Fd@@DDRVdB@D\\rB@HFb@Jj@?D|@nF@HJh@Hf@@H|@vFH`@Fb@F\\DV@JDTBHJr@BV@H@H?H?HAPKJKPGTCT@`@@HDNFNJJJJB@B@AX?R@TBN@BtAxIPfApAdITrA@FFb@BNF^h@vC?DN|@Lp@^|B?FBN@D@HBHBRjA~GBV|@tFFb@@Bv@rEBP@D@HHj@FZbAlGJj@`@dCTxAt@pEHh@@FBRC`@AP?J@L?B?D@HBV@HFVFRFLFJHJJHD\\dApGH^D\\jA|HHf@@D@H@F?H?H?HCJCPAPAd@?BD`@JTZVNFL@D@N@J?JATGJn@@HJh@D\\V|AF\\F^PfAF^Hf@BJbBhKHh@DTN~@BJHh@Hh@Hb@@HRhAnB~LXbBJn@BNPfADPF^ODMFIJGJI^@\\EPEPAXRnATtABH@HDVG@o@TMNGNA@KTc@fASh@o@|ASf@q@bBQ^Ul@KTYv@CBa@dAADCD?@CDQ`@GNcAdCIRSh@LLB@VTdGfFLJNT`@f@b@f@\\`@~AbBV^?@A??@???@??A@?@???@?@@??@???@??@@???@@??@??@???@@????@???@???@A??@????A@??A??@AVTJJPPBDLJHJNNNTLTLZDPBT?V?`@A`@?T@VDd@@H@FDTMDg@VGDm@XQHULo@XEBi@V]NgA`@oAb@G@KAMAG?Y@q@DHxADvA}CR@l@KKCBK`AERWhAc@~AEHEHEDEDGBGBo@Rm@Vs@\\k@Pi@NgATK?I?KAIAGCMGq@_@OGGGGGEGCACAC@A@AB?B?D@FBFPZZl@LRFHHFhAr@bAb@XNLHHHDHBD@D?F?D?LCHCDCBC@C?CAKC[MWKKCu@Cu@Ca@?c@?GAQEMEQGGCOEQIc@UGIEI}@}AYk@Mu@Iy@]mAGq@Ea@I_@Mc@Ki@?YD[NWp@c@p@On@Gv@A^Ig@AmAAmABm@HUNSLE@E?CCAIBIRM`BqADQEIGAMNMN[Dc@PQHm@b@OJKRMb@Kr@It@@~@B^L^Pp@Lb@Lp@?\\GZMd@GNEHEHEFIBCGCC?EBEJIHS@g@AUCQES[_@[][e@Yu@Qi@Ie@GQICEBCD?HHNFH@NBh@B^D^DZ?F?DABC@C@E?CCAI?M?OGUSa@",
+            "weight": 5122.1,
+            "duration": 1845.4,
+            "distance": 12659.3
+        }
+    ]
+}

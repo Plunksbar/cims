@@ -1,0 +1,30 @@
+{
+    "assencions": "487",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/montpalau/",
+    "comarca": "Maresme",
+    "altitud": 264,
+    "latitud": 41.642219,
+    "longitud": 2.670392,
+    "utm_31t_x": "472550",
+    "utm_31t_y": "4610105",
+    "essencial": false,
+    "nom": "Montpalau",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 3266.8,
+                    "summary": "",
+                    "duration": 3266.8,
+                    "distance": 56170.6
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBKc@W_BMgAe@yEMuAQeAO}@Mi@]oAe@sA_@{@k@eAm@}@g@m@g@g@aA{@u@m@_GoD}@i@WSwAmAk@m@m@o@gFuGg@e@sCmCsCcBgB_AaHwE}@s@_A{@cBeB_AiAqAkBsAyBiB{DgCyGGOs@mBiAyCm@{Am@oAu@_BoBeDuBwCkBmB_Ay@}@u@cCaBsAy@wGmDgGuD{CgCeAoAaAuAMOk@aA_@u@Sa@c@_A[w@Ww@WaAa@eBcAmGOmBGwAEwBAcA@wAD{AFkAH_AN}A\\}Bp@aDlBwHrBiIrA}Gd@wC^wCTcCLoBJuBDuBCkEQaEm@eFw@oDgAmDy@yBm@mAeCwDuDcEcByBcAyAy@wA{@mBk@}Ak@eBa@}Ac@sB[oBUaBSaCYaESmEGmECqQ?OCiDCqCIoCSkE[qDe@oDk@oCqB{Hy@mDo@_Ei@aEg@}CYsAYsAaAcDwAkDcBaDkBiCqBuB{BiBgGiDyEcCeCaBgBaBYWiCsDg@s@kB{DsA{DgA{C}@qCSm@y@uCm@gCs@}Co@oCiBoIi@iCy@cEwAgHwAgGq@gC}AyFcBuFiBiFaAcCeAmCsBmEeBmDaFqJ_FaK_CmFs@iBu@iBwFcQqCcKoBuIi@oCoAyG_B_K_@cCiAiIs@qFWgBkAaJ_@aCWsAi@kCcA}EkAgEyA_EqCyGeBkDqBqDU]aBcC{@qAoCiDaD{DsBgCsCuCaDaCgC{AgCeAaDoAoAo@}@g@MGgBuA_B}AmBuBqA}AkAkAaA_AgAw@kBeAqBw@uCo@mAKkA?qADmARsC`AeAl@_Ap@mDfDyAlA}A`A{CpAwA^qAPiANkAFiCC_AIeCa@q@Sc@OMEiAc@_CwAc@Uy@s@aByASSk@m@q@{@a@o@Wc@wAiCeAeC}AyDsBcGwAeFaBwGiAcGu@_Fe@qCcAmGQgAWwAW_Ba@qCUoAUqAs@iDm@cCs@iCy@cCq@kBmAaDo@{A_AwBs@cBc@gAUm@IW[eAYoAc@qBQ{@Ky@WyBIeAGcAGgBEkB?eA@UHgEH_CNqDHwE@mFG}FEqBAeAE_DIqECgAMgCMaCWaDo@uFa@mC_@sBa@sBiA}Ea@iBOq@]oBk@cDa@{Co@yDcAoFc@uBa@{BY_Bi@wCU_BWaCU{BO_CM}BMcDCaBCaB?cDJ_GDaBFaAD_ALiBNqBFe@JaATkBVoBj@oDd@qDJiAJuAH}ABoA@mACaDIyBO{BI}@M}@OeAO_A]eBGWYqAYkAKa@w@qC_@gAcAoCgAkCcCcFmAaCy@gBe@cAc@_AYs@{@}B_CuGiAaDo@wA_AyBuBqEaB_DgAgBuA{BsAgBiBsBiCoByAaAsCuA_Ag@yAaAuBeBqAwAcCgDeB{CmA}CeAkD{@uD]cCQeBSkEIcD@eD?eAEeJKcDEoA]eEk@mE[uBUqAi@eCa@kBaAkDkAcDuEkKyAqDaA}Co@mCU_Au@wEu@uG{@kH{AcGc@wAsBeFkD{EmB_CqDgE_DiGUe@iCkGqBoDe@o@kAyAmAsAqBaBmAy@mAq@eDoAs@WwAg@y@YeAa@_@Q_Ai@qA_As@o@eAmA}@gAcA}Ag@gAgAeCa@yA_AmDO}@OcAOqAOiBI{AE}AA}ABcBHmBH}AP_BPmA`@}BhAkGt@{IHuFIeFg@gG}@sFuA{EqAaDgA{BcA}AQWmAiBoAsBw@{Am@}As@{Bm@oCYkBS_COoDMiJM{BMsAQcBWqAWiAwAgFaAsBeAoBcEgGgB{CyAwCy@}Bi@sBg@oBq@kCa@{BWwBWkDKoDAmD?[LaFd@wHHgEG_E[{Dc@uCw@qDw@iDg@}CWiCKiDBmFB}BHiFCmEK{CQyCa@wDm@{Dw@mDaAeDm@iBy@oByBeEkByCgC_E}@mBWo@Um@i@}Ak@}Ba@uCOmAIeAO}DMuCGmCQmDy@aI_A_F]wAgAaEsCmHkFcLuByFs@cC_CaKc@sCo@_FGe@]yDY{FImEAcMCiGM{Eq@oIq@cF}@oE}@_DuAeDqAyB{AoBeBaBgA{@gEsBmCw@kC{@w@[aCgAcAs@kBsAeB_BOOwDeFgDkFqBeCyA{A{DwC{C}Co@{@eE{GaA{Cw@kCYuASyAQuAMaBAm@@i@F}@XmBTyATaAXaARs@V}@Ns@H]xCqIvGgPv@gB|B_FnBkEL[HO\\y@Rc@Rg@Nq@He@Jm@Fi@Bu@Bc@Fg@HYHWLSRY`@a@p@k@Ka@CI_@qAK[OJi@\\ULe@XSBKBQAMIMUEOQi@EKGIIIEMOe@K_@Sw@Ga@Mq@M{AIs@CS?M@Q?I@G?IAGCEAAAAECEIAEEMc@eDCSIc@Q{@Uu@Se@aAkBw@}AWg@IQACCKCQBK@O?QCQGMKIMEM?MGKKEEACU[GQOc@w@oCWeBOqAM{BQkDAOFa@BWDG@G@KAICGCGGCEKOWAOAIKiAMgAM{@Im@M_AIg@YeAg@yAUo@IYSk@Qe@Oa@I]ATCTGHONSJKDa@TQFSFq@@_B@{BP]B_BLyD_@MFkCbAeC|@yAH_D}@uA?eEdA{DhBs@L}Aj@qAPo@Ba@HWD@REHAF?F@PDnAGd@EXs@bFs@`Fs@hFGd@It@Ix@Cj@?j@Bl@D~@BVFnADrBAh@E~AIhCA^?V?TAHBf@@x@Bt@@h@?ZCb@EXG`@Ib@O\\KFUBS@EAOCMKi@c@KEQAS?OBC?GHCPCL@NBFB\\ARCJCNIVCNQp@IRIJUXMJUPQBc@GKEMCU@UDUCQ?K?M?IDIAEGECKBCFINKFI@u@HIBEDCH?JAP?\\B\\BR@XAZELCNILGJKPQPSTMRGNKVKRIr@AZ@TCR@T@LO?SCOGEEGKGOE[@YDe@Ba@FSEEIOKOKMOQc@YOGI?MBOHOFO@QAKCQEQQKQK]AM?QFYHU@Q?OGQCI@c@?QGKIGCCMIIGES?U?_@?]AuBC_@Ac@Ak@??",
+            "weight": 3266.8,
+            "duration": 3266.8,
+            "distance": 56170.6
+        }
+    ]
+}

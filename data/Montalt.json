@@ -1,0 +1,30 @@
+{
+    "assencions": "1207",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/montalt/",
+    "comarca": "Maresme",
+    "altitud": 597,
+    "latitud": 41.6041277928,
+    "longitud": 2.49632222322,
+    "utm_31t_x": "458029",
+    "utm_31t_y": "4605947",
+    "essencial": true,
+    "nom": "Montalt",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 5072.3,
+                    "summary": "",
+                    "duration": 5072.3,
+                    "distance": 47499.6
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[RYt@eAt@gABEXc@BEHKBEBEBE@AMQCEcA{A_@i@CCACW]KOIM[e@U]{@oA_@i@CCKQc@m@gAaBu@gAEEOWQUQYa@i@mAiBEGSWQWNS`@o@x@iA@EJM@UJa@FIFIHMv@iAFA^Md@KTKNSBCJQDMBEtBqC@CBCT_@JSHKHOLQDGEEGMo@}@Qc@KOOUMScA{AcAyAk@o@SM]SmJeNkBoCgRyXqAiBmAeBs@eA]m@]o@_@s@MYQa@Wq@Oc@Ma@Sk@Qg@Og@m@cBGQM]Yu@_@{@Uc@s@wAQ[MSMQcA{A}@cAm@i@k@e@oAaAi@g@GGc@_@_EgDuEsFyDgEaAeAaByAOO_A}@}@{@]WYQYQ]Q[Ou@[]K{@S]Gc@Gw@IcAI{BQ}BWyBa@sBi@sBs@{DkByAcA_BkAuAsAmAiAiDeDqCwC{AwAsTcTkAoA}DyDUUeF}EwAaBiAwACCcAmAuCuDkJaLcGoHuAqBKSg@_Ae@iAw@mBwBoGwAmDuAqCeDqGyAuCsDmHi@kA]aAe@gBMe@Ik@ScAG_@c@}Ck@eE}D_XuAeHsBkJmCiKk@}Bu@gCAC_@yAm@mB_BsFyCiJWu@iA{CUi@k@}AUo@_AeCi@qBKc@W_BMgAe@yEMuAQeAO}@Mi@]oAe@sA_@{@k@eAm@}@g@m@g@g@aA{@u@m@_GoD}@i@WSwAmAk@m@m@o@gFuGg@e@sCmCsCcBgB_AaHwE}@s@_A{@cBeB_AiAqAkBsAyBiB{DgCyGGOs@mBiAyCm@{Am@oAu@_BoBeDuBwCkBmB_Ay@}@u@cCaBsAy@wGmDgGuD{CgCeAoAaAuAMOk@aA_@u@Sa@c@_A[w@Ww@WaAa@eBcAmGOmBGwAEwBAcA@wAD{AFkAH_AN}A\\}Bp@aDlBwHrBiIrA}Gd@wC^wCTcCLoBJuBDuBCkEQaEm@eFw@oDgAmDy@yBm@mAeCwDuDcEcByBcAyAy@wA{@mBk@}Ak@eBa@}Ac@sB[oBUaBSaCYaESmEGmECqQ?OCiDCqCIoCSkE[qDe@oDk@oCqB{Hy@mDo@_Ei@aEg@}CYsAYsAaAcDwAkDcBaDkBiCqBuB{BiBgGiDyEcCeCaBgBaBYWiCsDg@s@kB{DsA{DgA{C}@qCSm@y@uCm@gCs@}Co@oCiBoIi@iCy@cEwAgHwAgGq@gC}AyFcBuFiBiFaAcCeAmCsBmEeBmDaFqJ_FaK_CmFs@iBu@iBwFcQqCcKoBuIi@oCoAyG_B_K_@cCiAiIs@qFWgBkAaJ_@aCWsAi@kCcA}EkAgEyA_EqCyGeBkDqBqDU]aBcC{@qAoCiDaD{DsBgCsCuCaDaCgC{AgCeAaDoAoAo@}@g@MGgBuA_B}AmBuBqA}AkAkAaA_AgAw@kBeAqBw@uCo@mAKkA?qADmARsC`AeAl@_Ap@mDfDyAlA}A`A{CpAwA^qAPiANkAFiCC_AIeCa@q@Sc@OMEiAc@_CwAc@Uy@s@aByASSk@m@q@{@a@o@Wc@wAiCeAeC}AyDsBcGwAeFaBwGiAcGu@_Fe@qCcAmGQgAWwAW_Ba@qCUoAUqAs@iDm@cCs@iCy@cCq@kBmAaDo@{A_AwBs@cBc@gAUm@IW[eAYoAc@qBQ{@Ky@WyBIeAGcAGgBEkB?eA@UHgEH_CNqDHwE@mFG}FEqBAeAE_DIqECgAMgCMaCWaDo@uFa@mC_@sBa@sBiA}Ea@iBOq@]oBk@cDa@{Co@yDcAoFc@uBa@{BY_Bi@wCU_BWaCU{BO_CM}BMcDCaBCaB?cDJ_GDaBFaAD_ALiBNqBFe@JaATkBVoBj@oDd@qDJiAJuAH}ABoA@mACaDIyBO{BI}@M}@OeAO_A]eBGWYqAYkAKa@w@qC_@gAcAoCgAkCcCcFmAaCy@gBe@cAc@_AYs@{@}B_CuGiAaDo@wA_AyBuBqEaB_DgAgBuA{BsAgBiBsBiCoByAaAsCuA_Ag@yAaAuBeBqAwAcCgDeB{CmA}CeAkD{@uD]cCQeBSkEIcD@eD?eAEeJKcDEoA]eEk@mE[uBUqAi@eCa@kBaAkDkAcDuEkKyAqDaA}Co@mCU_Au@wEu@uG{@kHg@iDi@uBi@iBo@yAi@oAcAiB{A{BeBiCqAsAWW{AaB}@sAy@yAi@mA{@sB{@uB_AyBkAsBS]g@u@eBwBqC_DmB{BwA}Aw@eAe@c@wAmAqAaAkAm@i@Iq@@cARi@Fk@?i@Kg@Wc@i@]{@Ow@IaAA{@EeAEg@GYWi@_@o@]e@GIOKQIWEQ@SBUDc@Lw@RmA^o@Ng@F}@F}@B{@AaB?UAqCGQCG?SA_@AW?[@[BS@k@Ba@Bg@DQ@QBYDKDOBcH^M@{AJeAFuAJM@uAJ_@DwCz@aEZ{@FkANa@LUHMDgDlAKFiAl@iBjAGBWLA?EBMAAAC?C?A@ABKDM?C?gAAaAEo@GcA]_@Ms@UOC_Cm@qA?E?E@G?KAc@G_A]_A{@mA?oCPk@@@xA?bBC?C@??C@qD~A{BdAa@h@c@j@o@z@I^I\\SXKLMLi@r@_AjAa@l@aB~BEHLNm@|Bi@zBUfAUbAWnA]dBs@nDWzAQ`AWdFAHAxBEzE?NIv@}@~IGt@@b@JlBBtA?rAIrBKtBEdBMxBQvBG|@G|@IxAM~@Gb@K`@Wx@Kl@Qn@EZWlBO|AINCTCXEbAEdBEfBGbBCt@AtBA|@?jAAn@?rAEnDDXAr@Bn@Hl@?DJb@\\l@HPFTFVFLJXF@IP?N?f@Cb@GPETSd@UVITGX?l@Ej@Qf@IXJBRQZq@PCXDJPFnBPzAPv@VpANz@N`@R`AJ`AKdAWbAc@xBQr@En@BNNTf@JdACVZFxACf@Er@@z@H|@JVNVHPFn@Jv@Rv@?TD\\@XCd@@HDBF?PALBnAt@HZFn@HRLTPRTp@Pf@G@QMQ[a@Ka@QSU[SOGG@MD_@HGESQMAOBMLOJKDO?Y?OBEN?FFFHBrAAHBFJJZJJZETAHHTd@H\\DZ?XC\\I`@Ev@Cl@EfA@\\Db@Jd@Rf@H@R@D?JEL[LOPMTIXCJFLVHTPb@PDJ?HCJCNENAHDLTJ`@Nh@N|@Pl@HXHN?^?b@?XJ?BJD@HBH@F?PEJ?TYJQB@HHN?R@JNHZ@\\@PHdABh@FpAXrAv@nAXnAT|@DbAIrBLdAVd@Bj@?vBAh@Bf@Th@Ph@Jd@T^b@E`@i@Xi@VmAJeAJeAN_@ZUj@C\\ITSVSN_@Hq@Cs@?]@KDOJORAXPTd@Pp@Zr@LRRPNBJN??",
+            "weight": 5072.3,
+            "duration": 5072.3,
+            "distance": 47499.6
+        }
+    ]
+}

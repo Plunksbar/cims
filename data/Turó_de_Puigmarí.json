@@ -1,0 +1,30 @@
+{
+    "assencions": "498",
+    "url": "https://www.feec.cat/activitats/100-cims/cim/turo-de-puigmari/",
+    "comarca": "Selva",
+    "altitud": 233,
+    "latitud": 41.754554,
+    "longitud": 2.730416,
+    "utm_31t_x": "477588",
+    "utm_31t_y": "4622560",
+    "essencial": false,
+    "nom": "Turó de Puigmarí",
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [],
+                    "weight": 3986.8,
+                    "summary": "",
+                    "duration": 3968.7,
+                    "distance": 69014.9
+                }
+            ],
+            "weight_name": "routability",
+            "geometry": "mmw{F}wjLU]GIc@k@eBeCg@w@eBaCCCU[S[qBwCIKOSGKGJ]\\qBvCy@jAGJcAvACDKPELEFCH_@r@EHEDMPqAhBW^CBW^QVED]f@SXORSZY^ABGFKNMRY^ABaAtAe@l@_CdDKNEHEDQVw@@c@@Y?I?I?mA?s@?gA?cA?]?UAK?G?e@@E?e@AI?y@@y@De@Bg@FWD_AR]HMBg@Lg@PwAn@a@\\wCfB_B~@eBbAm@\\_B~@OHSJEBEB[TQHIFoBjAeC|AEBEDYTSNCBC@CBUJQJSFODGBQBSBY@]@[?k@G]Ga@MIAg@K_@ImBc@y@SYIuA]i@MCAICYGEAiEeA{EgA]IKEIAeCk@qCo@sA]mAYcDw@o@MqCm@wBe@{@QmAW{@Qq@OGCe@IYEYGi@KuA[kAYUGWEw@SeASkBc@eGwAeCi@{@S{@SuA]e@Kk@Mw@SE?{@UUGKCk@Ma@I??YG]A{@EaBGyGQuAAyB@E?]@eADiAHaAHk@Fm@JWDg@Jg@Hu@X_@J]Ns@^a@TQLe@`@SRWX[\\]b@_@h@]h@]j@_@n@e@|@y@zAgArBaA`Bs@nA]j@]j@]h@_@h@_@f@MHKNGHy@`Am@l@C@UTWVSNc@h@aAv@gAv@a@Vk@ZcBdAi@Zc@V]Va@Xa@\\gAdA}@`Aq@j@s@v@c@b@k@f@[X[T[T[R_@PGBUL]L{@Zm@Nk@Jm@Hq@Fq@By@As@Eq@IiAQu@Ui@Sg@Sc@WcAm@}@q@_A{@}@}@cBiBoE{EoAqA}@}@cB}AsAkAmB{A}@o@}@m@sAy@EEsAq@wAo@sAe@cAY{@SsAUiAOiAKeAGcAAy@Au@B}ADuAJuDX}BRy@FmAJ}AHmABM@oA?cAAo@Co@Ga@Ca@Ey@Qw@Q}@Yu@Ys@_@{@i@u@k@{@y@s@y@q@_Ag@{@c@y@_@s@c@cAs@uAYk@Yg@g@y@i@u@c@g@c@c@e@a@e@a@}@k@o@[e@ScA_@gAY{AWwASwAQ_C]iBYMCy@Qw@SyA_@wAg@cBs@gAg@cAi@GEcBiAaBkAiA}@sB}Au@q@iCgCqFeG}HsJsA_BaEcF_DyDcGyGkBoBgDyCmAgAyBcB{BcBkBqAkEuCeHmE_IsEqAw@sDuBuIaFaDkBkCyAcDkBgGoD_CwAmCaBo@_@kCcBoAw@mAy@cBiAmBqAqA{@mA{@oA}@oA}@oA_AgBsAgBsAmA_As@k@iByAgByAw@o@oIkH_Ay@wDcDsFoFoFyEoA{@yAcA{A{@gE{BkAq@oGiDaCaByAsAsAsAqCqDyBuDqDsHgB{CiBmCc@g@kBuBoBaBq@g@gBgAqAi@}@]{@[{Bo@}Bi@y@MgBa@eBa@cBe@{@[{@]yBgAk@[i@_@i@]k@c@e@_@k@i@wAuAmAuAuAcBm@{@m@}@{@qAkA{B[m@m@mAKUYo@GM[w@MWk@sA]_AkAsDe@_Bg@mBUeAQqA[aBYaBQuAMoAIy@MaBIyAGsAEwACwAAiBA}AAuB@gD?oE?aA?eD?mBAuAC{AEoCAgAAOEeCCu@M}COyCQ{CS}CYoDW}CW}B[gCU_Bi@_D_@sB}@{Dk@sBm@oBm@eBu@gBu@eBy@}A{@aBcA_B_AwA_AsAcAuAqBuCmByCsBwDYo@[u@o@mBm@mBy@uCw@sC_@mASw@Qe@So@e@qAa@eA}@sBa@u@y@uAm@cASWy@cAi@m@}@_A}@{@m@e@gBoAkBcA_A_@}@_@_AYaAWw@Ow@MqBWoAMa@CsCO}BOuAKuBUyAWIAaAUmA_@y@[w@]}@i@_Ak@cAu@cA{@gAkAaAkA_AsA_@k@q@sAg@eAe@gAe@qAUw@s@oCi@mCa@qCkAaJYuB_@uBc@yBo@eCi@mBk@kBu@oBu@iBq@}Au@yAuByDu@mAkAiBeBmCcCkDoC{DqBsCSW}BaDyBcDW[{@oAaAyAaAsAeBwCs@gAg@aA[q@e@_AaAoBe@eAg@eAuA}CwBwE_@_Ak@sAcBoEw@yB_@gAcAgDmAaEg@mBgAeEOu@u@}Cs@_DsAkGiAuFeAoFkAaG_AwEi@kCg@_Ck@gCgAwE]}A[mA]sAg@mB]mAgCiIq@sB{AiEyAsD_@cAeCwFwAyCq@sAyB_EsAyB}@uAKOi@{@}@mA}@kAgAyAiBuBqC}CyAyAaDoCgA}@s@m@aAu@oIeGwByAk@_@}AeA{AkAs@m@i@c@[YwAuAs@u@UYkBaC{AuByA_CU_@sAeC}AkDcAeCgBgE{@uBc@aAg@cAe@y@c@u@e@u@s@cA}AkBgBqBkBsBgB{Be@m@aA}Ac@u@_@u@o@sAc@cA]{@g@yA]eAg@iBWgAUiAW{AKq@OeAOiAI_AIaAMyAIuAKwBKoBi@}LSyCEaAYkDUaCSiB_@gCq@}De@}BUcAq@mCq@{BgAeDmA_DyCkGkDqGS_@wB_EmAkCoAyCg@sA_@kA]uAc@}AkAiGGi@_@kDSwCQmEKgFIuEIkFO_EYuEYiCg@mDa@_Cm@qCcBwF}@_Cy@mBsEkImBkDiBkDaB{DqAqDsAmE_@uAiA{D]oA}AcFo@gBm@wAk@wAm@qAeBcD_C}DaCaDaHuIm@y@iDyEkCuEaAgBcA_Cs@qBaBqEeAgDy@aDe@wB{@gFu@cFU_CUmB_@qDI_AaBoSmBuQiBqKwAeHo@yCqBsIgByFsB_GgC}F{CgFoCyDsCoDgAqAsEwFuFkImD{HoC{GwC_LuAqIiDgTwBuHkBuEeC}E{LgP}J{MsCiE}DaHi@gAi@kAqAwCs@wAo@}A}AyDkAaDy@{BaCcHaBsEk@cByBcGoA{CeB{DwAqCqCyEcCiD}@gAkAuAyAyAuAqAyBcBmCuByDwCyAsAwAyAq@w@o@{@y@iAw@mAgBgDwCuHaHuQsBiFkFeIsJ_LyDsE_D_FcEwI}FePwCaG_GuH_DeCgKkHiFuD}CyCaGgFgD{DyDiFs@eAyAiCsEcJuEyMmEsOaByFoAwDm@oAc@eBgDiH_CyEsDuFgAyB}DmI}A}DeBgGm@aCY{Au@kDaAgH_A_Lk@cLo@aPs@sMcAoNsAiMaAqHoAiHmBwJeCcKuCkJeDwJuJmWyC_IkAaDuCyIiDcKkCoJqC_MiB_Lq@{Eg@sE{@uIq@yKEk@]cLKaIC}H?sHAiLC_BQ}GOeD_@qEi@sFy@sFc@yCgAcGcA}FsAmIo@mEi@iEg@qE]uDa@sF[yFUgGMcGCyDC_F@_GJsPByKGcFM{ESaD{@cIs@sE{A{GcCiHeByDaCmEqAmBmCoD{B}BaA_Ak@c@w@i@_ByAcAq@sBkA_JeFaD_CmAkAaAmASWQ]KSKYGSE[CW?Y@ODQDOHODKHGLKHEJCNAJ?RDHDJHFFHHHPDN@LBP@NA`@C\\K`@KZMZMXMPGJKNIHIJKJOLMJMHOHOFMF[J]FUBW@W@UAUC[GMEOIMIOKMOIMIOKYI[GYOaAQmAYsCk@_GQcBMiAGm@Ik@Ga@EYGUGSGOGIIKKIMIMGMCIAKAK?I@EBEBCBE@G@E@CCACCAE?C?C?C@EBABCBADADEDGFE@A?{A`@w@PQCOGIGCEIGQq@E[]mEe@kEg@_EyAsKKi@Kc@Su@Qi@sB_EKQI[GWCOBG@I?G@G?IAGHYFSHS~@kANSJUFUDOBGD]@_@@[?CCiCI}PBgB@iAA_B?cAEuAAWCi@EkI?g@?g@?m@@Y@_@@KDYLi@Lc@Na@Zk@tCqE@CLSDMJ[DYB[@[AUAMGe@Mg@Oe@GQq@sBkA{D_@sAIWOy@Sw@I[E[CY?W?O@]D[HYLa@DGDKLSV[LKlBmBZY^WVO^SZMh@Qf@OVKRKRORUPWPWJWJUFSDQFSH_@BUDYB[@c@@e@AW?SC_@CQCWGYCSIY}@sDs@qCEK}@iD{@oD[wAWqAWqAYwAUuASqAQeAOkAQ}AMmAGo@C]KkAEy@G{@MuBIoBSyFk@{OEq@Ce@WaECi@?c@?S@]Da@Jo@TwARiABKu@k@Ii@a@m@c@e@O}@JoAAy@WmAg@eAq@q@i@}@w@{Bm@aBWcB_@iAg@cAi@wAg@qA}@aCk@gAq@aAm@cBs@oDk@yCg@qB}@wC_@kBKu@?y@Dk@DCBG@E?ICICGFo@Dk@Bw@Wk@e@_@]s@Ke@Bw@Qq@Wu@MeBQ_Am@_@cBk@wAYmAo@{@u@TOp@N\\AFc@Fq@Ly@Xo@LoANmBH}BV{@h@_Ah@e@X^Pc@D[Aq@A{@Ao@Gq@Ay@Ng@@w@?gA@qA]uA[{AAs@LaAl@sAZG_@cCOmBGkAOc@K[AsASw@e@m@g@s@{@c@{@c@g@e@SMm@Uk@g@eAw@iAeAa@Qm@UaAu@c@c@GKAQ@c@TkANc@Nu@By@Eq@Og@Mq@CgAScCGm@KUo@MSEQSSe@Si@[e@MUGS?QBY?[@u@Ic@BGAOK_@CU?IJSVQNADHFRf@b@FHD`@CV@JJJD?FBZGF@HLHFLDLCLM\\QPA",
+            "weight": 3986.8,
+            "duration": 3968.7,
+            "distance": 69014.9
+        }
+    ]
+}
