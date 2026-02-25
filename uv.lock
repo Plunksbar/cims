@@ -129,6 +129,7 @@ version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
     { name = "pandas" },
+    { name = "polyline" },
     { name = "streamlit" },
     { name = "streamlit-folium" },
 ]
@@ -136,6 +137,7 @@ dependencies = [
 [package.metadata]
 requires-dist = [
     { name = "pandas", specifier = ">=2.3.3" },
+    { name = "polyline", specifier = ">=2.0.4" },
     { name = "streamlit", specifier = ">=1.54.0" },
     { name = "streamlit-folium", specifier = ">=0.26.2" },
 ]
@@ -505,6 +507,15 @@ wheels = [
     { url = "https://files.pythonhosted.org/packages/01/4a/9202e8d11714c1fc5951f2e1ef362f2d7fbc595e1f6717971d5dd750e969/pillow-12.1.1-cp314-cp314t-win32.whl", hash = "sha256:d2912fd8114fc5545aa3a4b5576512f64c55a03f3ebcca4c10194d593d43ea36", size = 6438736, upload-time = "2026-02-11T04:22:46.347Z" },
     { url = "https://files.pythonhosted.org/packages/f3/ca/cbce2327eb9885476b3957b2e82eb12c866a8b16ad77392864ad601022ce/pillow-12.1.1-cp314-cp314t-win_amd64.whl", hash = "sha256:4ceb838d4bd9dab43e06c363cab2eebf63846d6a4aeaea283bbdfd8f1a8ed58b", size = 7182894, upload-time = "2026-02-11T04:22:48.114Z" },
     { url = "https://files.pythonhosted.org/packages/ec/d2/de599c95ba0a973b94410477f8bf0b6f0b5e67360eb89bcb1ad365258beb/pillow-12.1.1-cp314-cp314t-win_arm64.whl", hash = "sha256:7b03048319bfc6170e93bd60728a1af51d3dd7704935feb228c4d4faab35d334", size = 2546446, upload-time = "2026-02-11T04:22:50.342Z" },
+]
+
+[[package]]
+name = "polyline"
+version = "2.0.4"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/2c/c1/1a6ee4f9f02a55b2a9241bbadd342970160f7e42423307f21ee8f5530d4e/polyline-2.0.4.tar.gz", hash = "sha256:f05ade694522bf1720febebe1672f820f43a13c6a1664751e7769d47e8ca9b1b", size = 8261, upload-time = "2025-12-02T17:55:22.735Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/34/a8/4ebd3cb31d380e018efb1c8bf92664b196a41aba19506015b682af2587b9/polyline-2.0.4-py3-none-any.whl", hash = "sha256:a4e0c15b8ecb32915559f8cf210f1f8c2f5cc53d3cd32c91d7c1668d6e936e10", size = 7167, upload-time = "2025-12-02T17:55:20.323Z" },
 ]
 
 [[package]]
