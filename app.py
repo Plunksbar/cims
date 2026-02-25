@@ -109,7 +109,7 @@ with col1:
         on_select="rerun",
         selection_mode="single-row",
         hide_index=True,
-        use_container_width=True
+        width='stretch'
     )
 
     selected_rows = selection.selection.rows
@@ -125,9 +125,9 @@ with col1:
         # Create buttons or nice looking links
         l_col1, l_col2 = st.columns(2)
         with l_col1:
-            st.link_button("🌐 Open in Google Maps", g_map, use_container_width=True)
+            st.link_button("🌐 Open in Google Maps", g_map, width='stretch')
         with l_col2:
-            st.link_button("🥾 Search on Wikiloc", w_loc, use_container_width=True)
+            st.link_button("🥾 Search on Wikiloc", w_loc, width='stretch')
 
         st.info(f"**Comarca:** {row['Comarca']} | **Altitude:** {row['Altitude']}m")
 
@@ -171,4 +171,4 @@ with col2:
         if not df.empty:
             m.fit_bounds(df[['Lat', 'Lon']].values.tolist())
 
-    st_folium(m, height=600, use_container_width=True, key="main_map")
+    st_folium(m, height=600, width='stretch', key="main_map")
